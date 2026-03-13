@@ -14,4 +14,4 @@ from stupefied_gates import lucid_pasteur as lucid_pasteur1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
-import keen_kirch as keen_kirch1
+from acoustic_whale import keen_kirch as keen_kirch1

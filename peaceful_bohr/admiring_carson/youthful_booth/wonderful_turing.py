@@ -14,10 +14,10 @@ from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import affectionate_
 from elegant_tesla.zen_pike.optimistic_hawking import reverent_mahavira as reverent_mahavira1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import infallible_aryabhata as infallible_aryabhata1
 from elegant_tesla.boring_dijkstra import trusting_bohr as trusting_bohr1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import stupefied_kirch as stupefied_kirch1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
 from peaceful_bohr import frosty_roentgen as frosty_roentgen1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1

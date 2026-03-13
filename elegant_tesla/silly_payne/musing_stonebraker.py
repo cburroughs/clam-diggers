@@ -6,7 +6,7 @@ from elegant_tesla.zen_pike import admiring_stallman as admiring_stallman1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import youthful_bell as youthful_bell1
 from stupefied_gates import jovial_benz as jovial_benz1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.silly_payne import admiring_perlman as admiring_perlman1

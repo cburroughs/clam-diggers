@@ -2,5 +2,5 @@ from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as elo
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from stupefied_gates import distracted_haibt as distracted_haibt1
-import confident_swirles as confident_swirles1
+from acoustic_whale import confident_swirles as confident_swirles1
 from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1

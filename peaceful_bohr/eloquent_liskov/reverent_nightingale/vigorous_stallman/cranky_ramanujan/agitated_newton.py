@@ -1,4 +1,4 @@
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw1

@@ -10,5 +10,5 @@ from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1
 from peaceful_bohr.admiring_carson import jovial_yalow as jovial_yalow1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.mystifying_kirch import mystifying_kirch as mystifying_kirch1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2

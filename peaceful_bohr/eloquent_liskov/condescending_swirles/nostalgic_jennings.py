@@ -5,5 +5,5 @@ from elegant_tesla.condescending_swirles import infallible_aryabhata as infallib
 from elegant_tesla.boring_boyd import focused_bohr as focused_bohr1
 from peaceful_bohr.brave_dubinsky import heuristic_minsky as heuristic_minsky1
 from elegant_tesla.condescending_swirles import laughing_wright as laughing_wright1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata2

@@ -15,7 +15,7 @@ from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import musing_raman as musing_raman1
 from peaceful_bohr import zen_curie as zen_curie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1

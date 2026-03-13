@@ -20,4 +20,4 @@ from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.zen_pike import hardcore_stonebraker as hardcore_stonebraker1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
 from elegant_tesla.frosty_goldberg import relaxed_mccarthy as relaxed_mccarthy1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

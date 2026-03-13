@@ -4,8 +4,8 @@ from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import h
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.goofy_kilby import confident_hoover as confident_hoover1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover.infallible_joliot.goofy_kilby import awesome_morse as awesome_morse1
-import unruffled_shannon as unruffled_shannon1
-import vigorous_franklin as vigorous_franklin1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import vigorous_franklin as vigorous_franklin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wright as awesome_wright1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import laughing_feynman as laughing_feynman1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

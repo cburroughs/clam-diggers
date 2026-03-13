@@ -15,7 +15,7 @@ from peaceful_bohr.admiring_carson.youthful_booth.kind_khorana.unruffled_torvald
 from peaceful_bohr.admiring_carson.youthful_booth.kind_khorana.unruffled_torvalds import pedantic_darwin as pedantic_darwin1
 from elegant_tesla.reverent_nightingale import vibrant_kare as vibrant_kare1
 from peaceful_bohr.admiring_carson.youthful_booth.kind_khorana.unruffled_torvalds import wizardly_ptolemy as wizardly_ptolemy1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson.youthful_booth.kind_khorana.unruffled_torvalds import objective_swirles as objective_swirles1
 from peaceful_bohr.admiring_carson.youthful_booth.kind_khorana.unruffled_torvalds import kind_goldberg as kind_goldberg1
 from peaceful_bohr.admiring_carson.youthful_booth.kind_khorana.unruffled_torvalds import happy_euler as happy_euler1

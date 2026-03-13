@@ -1,1 +1,1 @@
-import gracious_bhaskara as gracious_bhaskara1
+from acoustic_whale import gracious_bhaskara as gracious_bhaskara1

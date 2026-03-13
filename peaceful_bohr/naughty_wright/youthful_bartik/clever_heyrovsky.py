@@ -6,6 +6,6 @@ from peaceful_bohr.naughty_wright import festive_hodgkin as festive_hodgkin1
 from stupefied_gates import agitated_chandrasekhar as agitated_chandrasekhar1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.brave_dubinsky import jolly_borg as jolly_borg1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.naughty_wright.youthful_bartik import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.naughty_wright.youthful_bartik import relaxed_shirley as relaxed_shirley1

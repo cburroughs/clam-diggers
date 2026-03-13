@@ -3,5 +3,5 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.zen_pike.ecstatic_wescoff import pedantic_leakey as pedantic_leakey1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from elegant_tesla.zen_pike.optimistic_hawking import frosty_goldberg as frosty_goldberg1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.zen_pike import hardcore_stonebraker as hardcore_stonebraker1

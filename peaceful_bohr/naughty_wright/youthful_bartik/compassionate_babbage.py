@@ -14,10 +14,10 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from peaceful_bohr.brave_dubinsky import gracious_rosalind as gracious_rosalind2
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import serene_newton as serene_newton1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_mayer as clever_mayer1
 from peaceful_bohr.brave_dubinsky import jolly_borg as jolly_borg1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1

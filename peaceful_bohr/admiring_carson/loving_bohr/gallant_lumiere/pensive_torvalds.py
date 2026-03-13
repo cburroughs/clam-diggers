@@ -8,5 +8,5 @@ from peaceful_bohr.admiring_carson.loving_bohr import focused_mirzakhani as focu
 from elegant_tesla.zen_pike import frosty_mccarthy as frosty_mccarthy1
 from elegant_tesla.loving_bohr.gallant_lumiere import peaceful_swirles as peaceful_swirles1
 from elegant_tesla.loving_bohr import happy_leakey as happy_leakey1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.brave_dubinsky import frosty_goldberg as frosty_goldberg1

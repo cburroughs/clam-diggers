@@ -35,7 +35,7 @@ from elegant_tesla.boring_dijkstra.awesome_morse import boring_dijkstra as borin
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import musing_fermi as musing_fermi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.xenodochial_aryabhata.clever_raman import inspiring_feynman as inspiring_feynman1
 from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik2

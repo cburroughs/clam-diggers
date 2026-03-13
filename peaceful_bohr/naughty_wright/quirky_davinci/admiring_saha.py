@@ -5,12 +5,12 @@ from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahm
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.cranky_mahavira import relaxed_bhaskara as relaxed_bhaskara1
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from peaceful_bohr.naughty_wright import relaxed_shirley as relaxed_shirley1
 from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintock1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from peaceful_bohr.friendly_lalande import loving_mcnulty as loving_mcnulty1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr.cranky_mahavira import quirky_davinci as quirky_davinci1

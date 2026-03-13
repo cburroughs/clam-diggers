@@ -9,5 +9,5 @@ from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani a
 from peaceful_bohr.zen_pike import vibrant_northcutt as vibrant_northcutt1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import eager_rosalind as eager_rosalind1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1

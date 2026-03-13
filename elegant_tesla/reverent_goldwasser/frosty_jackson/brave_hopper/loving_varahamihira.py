@@ -3,7 +3,7 @@ from elegant_tesla.zen_pike import relaxed_bhaskara as relaxed_bhaskara1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import loving_varahamihira as loving_varahamihira1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.reverent_goldwasser.frosty_jackson.brave_hopper import stoic_mcnulty as stoic_mcnulty1
 from elegant_tesla.reverent_goldwasser.frosty_jackson import loving_varahamihira as loving_varahamihira2
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira3

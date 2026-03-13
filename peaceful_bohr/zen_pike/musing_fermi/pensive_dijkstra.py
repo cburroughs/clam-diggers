@@ -4,9 +4,9 @@ from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import zen_pike as zen_pike2
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr.zen_pike.musing_fermi import laughing_shaw as laughing_shaw1
 from elegant_tesla.zen_pike import hardcore_morse as hardcore_morse1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

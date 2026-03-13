@@ -8,7 +8,7 @@ from elegant_tesla.reverent_nightingale import awesome_nobel as awesome_nobel1
 from elegant_tesla.reverent_nightingale import goofy_varahamihira as goofy_varahamihira1
 from elegant_tesla.reverent_nightingale import happy_sammet as happy_sammet1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northcutt1

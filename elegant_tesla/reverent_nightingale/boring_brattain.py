@@ -5,7 +5,7 @@ from elegant_tesla.reverent_nightingale import compassionate_stallman as compass
 from elegant_tesla.reverent_nightingale import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike2
 from elegant_tesla.reverent_nightingale import boring_brattain as boring_brattain1
-import gallant_lalande as gallant_lalande1
+from acoustic_whale import gallant_lalande as gallant_lalande1
 from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
@@ -26,13 +26,13 @@ from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale import gallant_rosalind as gallant_rosalind1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import cranky_swanson as cranky_swanson1
+from acoustic_whale import cranky_swanson as cranky_swanson1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike3
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley2
 from elegant_tesla.zen_pike import focused_bhaskara as focused_bhaskara1
 from elegant_tesla.zen_pike.optimistic_hawking import fervent_snyder as fervent_snyder1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale import optimistic_euclid as optimistic_euclid1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import optimistic_minsky as optimistic_minsky1

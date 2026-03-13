@@ -12,4 +12,4 @@ from peaceful_bohr import angry_hugle as angry_hugle1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.awesome_morse.blissful_rosalind import dreamy_mayer as dreamy_mayer1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

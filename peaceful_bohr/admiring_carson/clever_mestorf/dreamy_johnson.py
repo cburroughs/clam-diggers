@@ -8,6 +8,6 @@ from peaceful_bohr.admiring_carson.clever_mestorf import focused_mirzakhani as f
 from peaceful_bohr.friendly_lalande import elegant_mayer as elegant_mayer1
 from elegant_tesla.clever_mestorf import goofy_bose as goofy_bose1
 from stupefied_gates import hardcore_turing as hardcore_turing1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.brave_dubinsky.focused_chandrasekhar import nostalgic_hawking as nostalgic_hawking1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1

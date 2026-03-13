@@ -2,7 +2,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import affec
 from peaceful_bohr.brave_dubinsky import agitated_goldberg as agitated_goldberg1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import youthful_wescoff as youthful_wescoff1
@@ -13,5 +13,5 @@ from peaceful_bohr.zen_pike.agitated_goldberg import cocky_bohr as cocky_bohr1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import wonderful_elion as wonderful_elion1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import loving_feynman as loving_feynman1

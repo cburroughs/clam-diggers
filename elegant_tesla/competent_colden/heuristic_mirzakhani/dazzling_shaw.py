@@ -8,9 +8,9 @@ from elegant_tesla.competent_colden.heuristic_mirzakhani import awesome_goldwass
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.competent_colden.heuristic_mirzakhani import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import wizardly_hodgkin as wizardly_hodgkin1
+from acoustic_whale import wizardly_hodgkin as wizardly_hodgkin1
 from stupefied_gates import tender_noether as tender_noether1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import wonderful_ptolemy as wonderful_ptolemy1
+from acoustic_whale import wonderful_ptolemy as wonderful_ptolemy1
 from elegant_tesla.competent_colden.heuristic_mirzakhani import nifty_euler as nifty_euler1

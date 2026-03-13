@@ -5,5 +5,5 @@ from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani a
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import frosty_mclean as frosty_mclean2
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser import focused_mirzakhani as focused_mirzakhani3
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1

@@ -4,5 +4,5 @@ from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani a
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra as dazzling_dijkstra1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from stupefied_gates import relaxed_hawking as relaxed_hawking1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.friendly_lalande import hopeful_beaver as hopeful_beaver1

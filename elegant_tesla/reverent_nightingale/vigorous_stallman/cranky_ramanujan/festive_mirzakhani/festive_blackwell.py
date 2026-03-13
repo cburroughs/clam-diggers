@@ -6,5 +6,5 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import p
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import blissful_spence as blissful_spence1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1

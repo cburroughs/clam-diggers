@@ -7,9 +7,9 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_bell as vib
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
 from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
 from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1

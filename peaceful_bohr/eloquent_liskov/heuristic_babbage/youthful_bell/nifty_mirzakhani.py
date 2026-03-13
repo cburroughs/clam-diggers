@@ -12,4 +12,4 @@ from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.heuristic_babbage import eloquent_davinci as eloquent_davinci1
 from peaceful_bohr.eloquent_liskov.heuristic_babbage import quirky_goodall as quirky_goodall1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

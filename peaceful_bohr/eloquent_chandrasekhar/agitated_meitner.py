@@ -10,7 +10,7 @@ from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from peaceful_bohr.brave_dubinsky import laughing_feynman as laughing_feynman1
 from peaceful_bohr.brave_dubinsky import zen_murdock as zen_murdock1
 from peaceful_bohr.zen_pike import hopeful_ritchie as hopeful_ritchie1
-import keen_mclean as keen_mclean1
+from acoustic_whale import keen_mclean as keen_mclean1
 from peaceful_bohr.zen_pike import keen_wing as keen_wing1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.jovial_bell import ecstatic_swartz as ecstatic_swartz1
@@ -20,4 +20,4 @@ from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.jovial_bell import ecstatic_sammet as ecstatic_sammet1
 from peaceful_bohr.brave_dubinsky import stoic_stallman as stoic_stallman1
 from peaceful_bohr.brave_dubinsky import amazing_mestorf as amazing_mestorf1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

@@ -1,1 +1,1 @@
-import festive_khorana as festive_khorana1
+from acoustic_whale import festive_khorana as festive_khorana1

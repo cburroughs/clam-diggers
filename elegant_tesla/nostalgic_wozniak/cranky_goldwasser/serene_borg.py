@@ -15,7 +15,7 @@ from elegant_tesla.nostalgic_wozniak.cranky_goldwasser import zen_pike as zen_pi
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import focused_wright as focused_wright1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wiles as awesome_wiles1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
-import hopeful_northcutt as hopeful_northcutt1
+from acoustic_whale import hopeful_northcutt as hopeful_northcutt1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import nifty_brattain as nifty_brattain1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.youthful_mcclintock.sharp_sinoussi import lucid_shockley as lucid_shockley1
@@ -47,7 +47,7 @@ from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import qui
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.youthful_mcclintock.sharp_sinoussi import blissful_bose as blissful_bose2
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import hardcore_hopper as hardcore_hopper1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import reverent_spence as reverent_spence1
-import hardcore_shaw as hardcore_shaw1
+from acoustic_whale import hardcore_shaw as hardcore_shaw1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import wizardly_wescoff as wizardly_wescoff1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import flamboyant_kare as flamboyant_kare1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import modest_mahavira as modest_mahavira1

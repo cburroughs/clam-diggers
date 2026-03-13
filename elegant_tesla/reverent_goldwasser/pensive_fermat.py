@@ -20,4 +20,4 @@ from elegant_tesla.heuristic_babbage.hopeful_swartz import lucid_pike as lucid_p
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
-import festive_neumann as festive_neumann1
+from acoustic_whale import festive_neumann as festive_neumann1

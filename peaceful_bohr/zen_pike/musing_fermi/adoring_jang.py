@@ -4,12 +4,12 @@ from peaceful_bohr.zen_pike.musing_fermi import adoring_einstein as adoring_eins
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from peaceful_bohr.zen_pike.musing_fermi import laughing_shaw as laughing_shaw1
-import objective_mahavira as objective_mahavira1
+from acoustic_whale import objective_mahavira as objective_mahavira1
 from peaceful_bohr.zen_pike.musing_fermi import wonderful_kalam as wonderful_kalam1
 from peaceful_bohr.zen_pike import elegant_bose as elegant_bose1
 from peaceful_bohr.zen_pike.musing_fermi import festive_hodgkin as festive_hodgkin1
 from peaceful_bohr.zen_pike.musing_fermi import lucid_pike as lucid_pike1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import gifted_lalande as gifted_lalande1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import elegant_darwin as elegant_darwin1
 from peaceful_bohr.zen_pike.musing_fermi import relaxed_shirley as relaxed_shirley1

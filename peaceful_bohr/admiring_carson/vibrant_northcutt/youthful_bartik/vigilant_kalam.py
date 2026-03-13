@@ -9,5 +9,5 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import sleepy_
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import priceless_minsky as priceless_minsky1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1

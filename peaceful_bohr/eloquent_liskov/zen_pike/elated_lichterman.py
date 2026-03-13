@@ -6,5 +6,5 @@ from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_f
 from elegant_tesla.xenodochial_aryabhata import dreamy_lamarr as dreamy_lamarr1
 from elegant_tesla.zen_pike import naughty_turing as naughty_turing1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1

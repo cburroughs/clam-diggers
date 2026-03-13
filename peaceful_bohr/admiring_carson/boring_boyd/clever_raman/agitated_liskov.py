@@ -4,5 +4,5 @@ from elegant_tesla.boring_boyd.clever_raman import xenodochial_kirch as xenodoch
 from elegant_tesla.boring_boyd.clever_raman import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd.clever_raman import agitated_raman as agitated_raman1
 from elegant_tesla.boring_boyd.clever_raman import lucid_shockley as lucid_shockley1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson.boring_boyd.clever_raman import focused_mirzakhani as focused_mirzakhani2

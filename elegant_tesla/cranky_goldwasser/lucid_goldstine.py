@@ -18,6 +18,6 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
-import trusting_leakey as trusting_leakey1
+from acoustic_whale import trusting_leakey as trusting_leakey1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import vigorous_jennings as vigorous_jennings1
+from acoustic_whale import vigorous_jennings as vigorous_jennings1

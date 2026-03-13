@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from stupefied_gates import infallible_banach as infallible_banach1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elastic_nobel as elastic_nobel1
@@ -13,7 +13,7 @@ from elegant_tesla.loving_bohr.gallant_lumiere import peaceful_swirles as peacef
 from elegant_tesla.zen_pike.optimistic_hawking import tender_heisenberg as tender_heisenberg1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import nervous_visvesvaraya as nervous_visvesvaraya1
+from acoustic_whale import nervous_visvesvaraya as nervous_visvesvaraya1
 from elegant_tesla.zen_pike import optimistic_jackson as optimistic_jackson1
 from elegant_tesla.loving_bohr.gallant_lumiere import vibrant_meninsky as vibrant_meninsky1
 from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
@@ -53,11 +53,11 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import vigilant_
 from elegant_tesla.zen_pike.festive_hopper import quizzical_bhabha as quizzical_bhabha1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
-import amazing_shirley as amazing_shirley1
-import lucid_jackson as lucid_jackson1
+from acoustic_whale import amazing_shirley as amazing_shirley1
+from acoustic_whale import lucid_jackson as lucid_jackson1
 from elegant_tesla.zen_pike import priceless_austin as priceless_austin1
 from elegant_tesla.reverent_goldwasser import relaxed_jepsen as relaxed_jepsen1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_goldwasser import competent_saha as competent_saha1
 from elegant_tesla.zen_pike import agitated_chandrasekhar as agitated_chandrasekhar1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

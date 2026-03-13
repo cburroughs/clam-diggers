@@ -1,6 +1,6 @@
 from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_gates as elastic_gates1
-import vigorous_thompson as vigorous_thompson1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import optimistic_hawking as optimistic_hawking1
 from peaceful_bohr.zen_pike import determined_mirzakhani as determined_mirzakhani1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import infallible_thompson as infallible_thompson1

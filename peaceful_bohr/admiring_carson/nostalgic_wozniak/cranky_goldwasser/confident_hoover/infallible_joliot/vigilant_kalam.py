@@ -7,4 +7,4 @@ from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover.infallib
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid3
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.confident_hoover import focused_mirzakhani as focused_mirzakhani4
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani5
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

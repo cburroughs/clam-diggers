@@ -11,7 +11,7 @@ from peaceful_bohr.friendly_lalande import nervous_beaver as nervous_beaver1
 from elegant_tesla.zen_pike.optimistic_hawking import peaceful_tesla as peaceful_tesla2
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.reverent_goldwasser import sleepy_ramanujan as sleepy_ramanujan1
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1

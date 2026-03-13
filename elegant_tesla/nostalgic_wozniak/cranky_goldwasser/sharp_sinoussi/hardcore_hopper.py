@@ -1,5 +1,5 @@
 from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
-import silly_rosalind as silly_rosalind1
+from acoustic_whale import silly_rosalind as silly_rosalind1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.zen_pike import cranky_hermann as cranky_hermann1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
@@ -16,13 +16,13 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_ha
 from stupefied_gates import stoic_jackson as stoic_jackson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
-import nervous_visvesvaraya as nervous_visvesvaraya1
+from acoustic_whale import nervous_visvesvaraya as nervous_visvesvaraya1
 from elegant_tesla.zen_pike import optimistic_jackson as optimistic_jackson1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from stupefied_gates import frosty_curran as frosty_curran1
-import lucid_jackson as lucid_jackson1
+from acoustic_whale import lucid_jackson as lucid_jackson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import trusting_banach as trusting_banach2
-import youthful_sammet as youthful_sammet1
+from acoustic_whale import youthful_sammet as youthful_sammet1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

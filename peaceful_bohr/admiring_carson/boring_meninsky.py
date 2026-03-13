@@ -2,7 +2,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sl
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import gracious_bhaskara as gracious_bhaskara1
+from acoustic_whale import gracious_bhaskara as gracious_bhaskara1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from peaceful_bohr.admiring_carson import zealous_blackwell as zealous_blackwell1

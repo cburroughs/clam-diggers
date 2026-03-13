@@ -10,4 +10,4 @@ from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintoc
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani3
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani4
 from elegant_tesla.vibrant_northcutt.practical_colden import practical_colden as practical_colden1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

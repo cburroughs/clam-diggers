@@ -1,5 +1,5 @@
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import competent_noyce as competent_noyce1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
@@ -23,7 +23,7 @@ from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import determ
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import awesome_noether as awesome_noether2
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.boring_boyd import distracted_pike as distracted_pike1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra as dazzling_dijkstra1
@@ -48,7 +48,7 @@ from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitn
 from elegant_tesla.boring_boyd import focused_bohr as focused_bohr1
 from elegant_tesla.vibrant_northcutt import cranky_hamilton as cranky_hamilton1
 from elegant_tesla.vibrant_northcutt import compassionate_jones as compassionate_jones1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import cranky_lamport as cranky_lamport1
 from elegant_tesla.boring_dijkstra.awesome_morse import elated_poincare as elated_poincare1

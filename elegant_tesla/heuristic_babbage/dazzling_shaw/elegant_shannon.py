@@ -1,6 +1,6 @@
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
-import silly_haibt as silly_haibt1
+from acoustic_whale import silly_haibt as silly_haibt1
 from elegant_tesla.heuristic_babbage.dazzling_shaw import lucid_pike as lucid_pike1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

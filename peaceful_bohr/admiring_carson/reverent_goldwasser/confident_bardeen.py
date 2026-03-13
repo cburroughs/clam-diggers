@@ -15,6 +15,6 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import jo
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.reverent_goldwasser.keen_curie import wizardly_fermat as wizardly_fermat1
 from elegant_tesla.zen_pike import loving_pare as loving_pare1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1

@@ -7,7 +7,7 @@ from elegant_tesla.heuristic_babbage import angry_lamarr as angry_lamarr1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import xenodochial_mcnulty as xenodochial_mcnulty1
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid2
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1

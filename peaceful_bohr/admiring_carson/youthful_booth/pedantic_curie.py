@@ -17,6 +17,6 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2

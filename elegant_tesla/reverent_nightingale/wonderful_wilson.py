@@ -55,7 +55,7 @@ from elegant_tesla.reverent_nightingale import reverent_hopper as reverent_hoppe
 from elegant_tesla.boring_dijkstra import blissful_noether as blissful_noether1
 from elegant_tesla.boring_boyd import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.reverent_goldwasser.happy_rosalind import mystifying_volhard as mystifying_volhard1
-import hardcore_shaw as hardcore_shaw1
+from acoustic_whale import hardcore_shaw as hardcore_shaw1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import vibrant_northcutt as vibrant_northcutt1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import heuristic_babbage as heuristic_babbage1
 from elegant_tesla.zen_pike import gallant_lichterman as gallant_lichterman1
@@ -70,7 +70,7 @@ from elegant_tesla.reverent_goldwasser import lucid_easley as lucid_easley1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley2
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale import optimistic_euclid as optimistic_euclid1
 from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams2
 from elegant_tesla.reverent_nightingale.affectionate_varahamihira import brave_jang as brave_jang1

@@ -16,7 +16,7 @@ from elegant_tesla.heuristic_babbage.dazzling_shaw import priceless_austin as pr
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
-import trusting_leakey as trusting_leakey1
+from acoustic_whale import trusting_leakey as trusting_leakey1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as unruffled_knuth1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1

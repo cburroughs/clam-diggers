@@ -1,4 +1,4 @@
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import elated_hugle as elated_hugle1
 from elegant_tesla.cranky_goldwasser import romantic_wozniak as romantic_wozniak1
@@ -8,5 +8,5 @@ from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr.goofy_varahamihira import hardcore_newton as hardcore_newton1
 from elegant_tesla.reverent_nightingale import eager_williams as eager_williams1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.zen_pike import kind_albattani as kind_albattani1

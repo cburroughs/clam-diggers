@@ -4,6 +4,6 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import k
 from elegant_tesla.zen_pike.optimistic_hawking import admiring_knuth as admiring_knuth1
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.zen_pike import cranky_khorana as cranky_khorana1

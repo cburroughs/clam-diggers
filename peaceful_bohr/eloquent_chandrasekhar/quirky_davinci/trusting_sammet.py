@@ -5,12 +5,12 @@ from elegant_tesla.reverent_nightingale import goofy_varahamihira as goofy_varah
 from elegant_tesla.reverent_nightingale import happy_sammet as happy_sammet1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import suspicious_meitner as suspicious_meitner1
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northcutt1
 from peaceful_bohr.friendly_lalande import loving_mcnulty as loving_mcnulty1
 from peaceful_bohr.brave_dubinsky import stoic_stallman as stoic_stallman1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
 from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_mirzakhani1
@@ -20,7 +20,7 @@ from peaceful_bohr.friendly_lalande import nervous_borg as nervous_borg1
 from elegant_tesla.reverent_nightingale import amazing_nightingale as amazing_nightingale1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import quirky_davinci as quirky_davinci1
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

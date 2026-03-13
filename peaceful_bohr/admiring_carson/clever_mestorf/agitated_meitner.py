@@ -16,13 +16,13 @@ from elegant_tesla.zen_pike import frosty_mccarthy as frosty_mccarthy1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from peaceful_bohr import blissful_pasteur as blissful_pasteur1
 from elegant_tesla.clever_mestorf import goofy_bose as goofy_bose1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from peaceful_bohr.admiring_carson.clever_mestorf.zealous_varahamihira import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from peaceful_bohr.zen_pike import zealous_morse as zealous_morse1
 from elegant_tesla.zen_pike.optimistic_hawking.wizardly_wescoff import dazzling_shaw as dazzling_shaw1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import sleepy_mestorf as sleepy_mestorf1

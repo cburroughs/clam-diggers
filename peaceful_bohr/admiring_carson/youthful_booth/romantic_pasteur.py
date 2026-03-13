@@ -12,5 +12,5 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sl
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1

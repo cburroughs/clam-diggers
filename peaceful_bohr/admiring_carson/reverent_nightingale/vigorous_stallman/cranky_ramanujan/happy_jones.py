@@ -3,4 +3,4 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan impor
 from elegant_tesla.reverent_nightingale import serene_swanson as serene_swanson1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from peaceful_bohr.admiring_carson.reverent_nightingale.vigorous_stallman.cranky_ramanujan import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

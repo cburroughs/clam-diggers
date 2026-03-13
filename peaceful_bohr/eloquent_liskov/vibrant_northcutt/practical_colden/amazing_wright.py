@@ -5,4 +5,4 @@ from elegant_tesla.vibrant_northcutt.practical_colden import determined_lichterm
 from elegant_tesla.vibrant_northcutt.practical_colden import relaxed_bhaskara as relaxed_bhaskara1
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.practical_colden import sharp_borg as sharp_borg1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

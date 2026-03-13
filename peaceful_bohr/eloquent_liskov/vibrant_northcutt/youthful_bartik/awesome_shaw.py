@@ -6,6 +6,6 @@ from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import serene_newton as serene_newton1
 from peaceful_bohr import priceless_carson as priceless_carson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_mayer as clever_mayer1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1
 from stupefied_gates import loving_feynman as loving_feynman1

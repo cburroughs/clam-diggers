@@ -4,7 +4,7 @@ from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from peaceful_bohr.zen_pike import sleepy_thompson as sleepy_thompson1
 from elegant_tesla.boring_dijkstra import pedantic_payne as pedantic_payne1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.brave_dubinsky import zealous_bell as zealous_bell1
 from peaceful_bohr.brave_dubinsky import zen_murdock as zen_murdock1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

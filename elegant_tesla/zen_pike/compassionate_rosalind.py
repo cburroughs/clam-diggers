@@ -1,6 +1,6 @@
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1

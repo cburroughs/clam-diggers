@@ -8,4 +8,4 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.peace
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw3
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from peaceful_bohr.brave_dubinsky import heuristic_minsky as heuristic_minsky1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

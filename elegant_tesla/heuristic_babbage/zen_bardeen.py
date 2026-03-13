@@ -12,7 +12,7 @@ from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import lucid_pike as lucid_pike1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import zen_curie as zen_curie3
-import frosty_meninsky as frosty_meninsky1
+from acoustic_whale import frosty_meninsky as frosty_meninsky1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
@@ -24,7 +24,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import p
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import priceless_austin as priceless_austin1
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import nifty_brattain as nifty_brattain3
 from elegant_tesla.heuristic_babbage.infallible_aryabhata.peaceful_chandrasekhar import youthful_wescoff as youthful_wescoff1
-import trusting_leakey as trusting_leakey1
+from acoustic_whale import trusting_leakey as trusting_leakey1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from elegant_tesla.zen_pike import infallible_visvesvaraya as infallible_visvesvaraya1

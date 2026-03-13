@@ -1,2 +1,2 @@
-import gracious_bhaskara as gracious_bhaskara1
-import unruffled_yonath as unruffled_yonath1
+from acoustic_whale import gracious_bhaskara as gracious_bhaskara1
+from acoustic_whale import unruffled_yonath as unruffled_yonath1

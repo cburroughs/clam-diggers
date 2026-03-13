@@ -11,7 +11,7 @@ from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.competent_colden.heuristic_mirzakhani import infallible_aryabhata as infallible_aryabhata1
-import angry_haibt as angry_haibt1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import angry_haibt as angry_haibt1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata2
 from peaceful_bohr.brave_dubinsky import frosty_goldberg as frosty_goldberg1

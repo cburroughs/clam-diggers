@@ -1,5 +1,5 @@
 from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_gates as elastic_gates1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
@@ -12,7 +12,7 @@ from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import eloquent_colden as eloquent_colden1
 from elegant_tesla.vibrant_northcutt import trusting_bohr as trusting_bohr1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bose1
-import peaceful_turing as peaceful_turing1
+from acoustic_whale import peaceful_turing as peaceful_turing1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import zen_keller as zen_keller1
@@ -26,13 +26,13 @@ from stupefied_gates import pedantic_bardeen as pedantic_bardeen1
 from elegant_tesla.boring_dijkstra import trusting_bohr as trusting_bohr2
 from elegant_tesla.vibrant_northcutt import cranky_hamilton as cranky_hamilton1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra import quizzical_shaw as quizzical_shaw1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.vibrant_northcutt.practical_colden import relaxed_bhaskara as relaxed_bhaskara1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
-import silly_panini as silly_panini1
-import gracious_kare as gracious_kare1
+from acoustic_whale import silly_panini as silly_panini1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1

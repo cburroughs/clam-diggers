@@ -4,18 +4,18 @@ from peaceful_bohr.zen_pike import zen_bohr as zen_bohr1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from peaceful_bohr.zen_pike import elated_leavitt as elated_leavitt1
-import condescending_franklin as condescending_franklin1
+from acoustic_whale import condescending_franklin as condescending_franklin1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr import objective_kalam as objective_kalam1
 from peaceful_bohr.wizardly_jepsen import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.reverent_goldwasser import sleepy_ramanujan as sleepy_ramanujan1
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
 from stupefied_gates import infallible_keller as infallible_keller1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1

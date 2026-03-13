@@ -14,7 +14,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import elegan
 from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
 from peaceful_bohr.admiring_carson.loving_bohr import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wright as awesome_wright1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
@@ -32,7 +32,7 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import quirky_thompson as quirky_thompson1
 from elegant_tesla.loving_bohr import gallant_kilby as gallant_kilby1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr.friendly_lalande import trusting_poitras as trusting_poitras1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import festive_hopper as festive_hopper1
 from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton2

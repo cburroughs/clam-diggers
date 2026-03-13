@@ -10,9 +10,9 @@ from elegant_tesla.zen_pike.optimistic_hawking import youthful_booth as youthful
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import flamboyant_hamilton as flamboyant_hamilton1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.frosty_goldberg import musing_raman as musing_raman1
-import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
 from elegant_tesla.youthful_booth import boring_dijkstra as boring_dijkstra1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

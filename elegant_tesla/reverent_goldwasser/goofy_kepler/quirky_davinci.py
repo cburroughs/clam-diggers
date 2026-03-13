@@ -2,7 +2,7 @@ from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import quirky_davinc
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import quirky_davinci as quirky_davinci2
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1

@@ -4,7 +4,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.dreamy_mayer import musing_lal
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.jovial_bell import unruffled_newton as unruffled_newton1
 from elegant_tesla.boring_dijkstra import dreamy_mayer as dreamy_mayer1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1
 from elegant_tesla.reverent_nightingale import mystifying_ardinghelli as mystifying_ardinghelli1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

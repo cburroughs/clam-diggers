@@ -8,5 +8,5 @@ from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra import hungry_poitras as hungry_poitras1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import fervent_sinoussi as fervent_sinoussi3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1

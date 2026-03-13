@@ -16,7 +16,7 @@ from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import heuristic_hopper as heuristic_hopper1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira.kind_golick import peaceful_sinoussi as peaceful_sinoussi1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import boring_dijkstra as boring_dijkstra1
 from peaceful_bohr.zen_pike import loving_varahamihira as loving_varahamihira1
@@ -26,13 +26,13 @@ from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import amazing_roentgen as amazing_roentgen1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira.kind_golick import reverent_thompson as reverent_thompson1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import loving_pare as loving_pare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import cranky_lamport as cranky_lamport1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import loving_varahamihira as loving_varahamihira2
 from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_heisenberg as elastic_heisenberg1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira3
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import zen_curie as zen_curie2
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani3

@@ -1,4 +1,4 @@
 from peaceful_bohr.admiring_carson.clever_mestorf import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import amazing_shirley as amazing_shirley1

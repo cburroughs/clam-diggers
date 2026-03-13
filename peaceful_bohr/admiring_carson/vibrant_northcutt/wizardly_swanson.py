@@ -9,7 +9,7 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import objective_perlman as objective_perlman1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.musing_fermi import optimistic_hawking as optimistic_hawking1
@@ -19,7 +19,7 @@ from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman impor
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import musing_carson as musing_carson1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import serene_minsky as serene_minsky1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import sleepy_meninsky as sleepy_meninsky1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.vibrant_northcutt.romantic_ride import vibrant_payne as vibrant_payne1

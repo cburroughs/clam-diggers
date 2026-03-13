@@ -6,8 +6,8 @@ from peaceful_bohr.brave_dubinsky.practical_colden import eager_almeida as eager
 from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bose1
 from stupefied_gates import cranky_tesla as cranky_tesla1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import clever_blackwell as clever_blackwell1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.zen_pike import cocky_cray as cocky_cray1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.friendly_lalande import hopeful_beaver as hopeful_beaver1

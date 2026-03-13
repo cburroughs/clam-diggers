@@ -1,6 +1,6 @@
 from elegant_tesla.reverent_goldwasser import hardcore_wing as hardcore_wing1
 from elegant_tesla.reverent_nightingale import gallant_rosalind as gallant_rosalind1
-import infallible_ardinghelli as infallible_ardinghelli1
+from acoustic_whale import infallible_ardinghelli as infallible_ardinghelli1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1

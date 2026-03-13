@@ -1,5 +1,5 @@
-import amazing_shirley as amazing_shirley1
-import cranky_swanson as cranky_swanson1
+from acoustic_whale import amazing_shirley as amazing_shirley1
+from acoustic_whale import cranky_swanson as cranky_swanson1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.youthful_mcclintock import unruffled_knuth as unruffled_knuth1
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.zen_pike import priceless_austin as priceless_austin1

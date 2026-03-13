@@ -8,8 +8,8 @@ from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.cranky_goldwasser import infallible_easley as infallible_easley1
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
 from elegant_tesla.reverent_nightingale import elated_poincare as elated_poincare1
-import zen_panini as zen_panini1
-import musing_mclean as musing_mclean1
+from acoustic_whale import zen_panini as zen_panini1
+from acoustic_whale import musing_mclean as musing_mclean1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import optimistic_minsky as optimistic_minsky1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import peaceful_tesla as peaceful_tesla1

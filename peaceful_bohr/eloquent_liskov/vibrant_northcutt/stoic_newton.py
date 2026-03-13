@@ -4,4 +4,4 @@ from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani a
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra.awesome_morse import mystifying_bhabha as mystifying_bhabha2
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

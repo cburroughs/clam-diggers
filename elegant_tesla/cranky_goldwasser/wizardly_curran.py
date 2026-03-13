@@ -10,7 +10,7 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover.infallible_joliot.goofy_kilby import awesome_morse as awesome_morse1
-import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wright as awesome_wright1
 from elegant_tesla.zen_pike import gracious_lovelace as gracious_lovelace1

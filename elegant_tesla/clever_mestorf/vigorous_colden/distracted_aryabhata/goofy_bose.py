@@ -3,7 +3,7 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.clever_mestorf.vigorous_colden.distracted_aryabhata import dazzling_pasteur as dazzling_pasteur1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.clever_mestorf.vigorous_colden.distracted_aryabhata import zen_curie as zen_curie1
-import angry_dijkstra as angry_dijkstra1
+from acoustic_whale import angry_dijkstra as angry_dijkstra1
 from elegant_tesla.zen_pike import sad_wing as sad_wing1
 from elegant_tesla.clever_mestorf.vigorous_colden.distracted_aryabhata import dazzling_shaw as dazzling_shaw1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1

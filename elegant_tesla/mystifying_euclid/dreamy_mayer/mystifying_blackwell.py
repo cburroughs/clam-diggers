@@ -1,8 +1,8 @@
 from elegant_tesla.mystifying_euclid import fervent_franklin as fervent_franklin1
 from elegant_tesla.boring_boyd import pedantic_payne as pedantic_payne1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
-import silly_panini as silly_panini1
-import gracious_kare as gracious_kare1
+from acoustic_whale import silly_panini as silly_panini1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1
 from stupefied_gates import adoring_keller as adoring_keller1
 from elegant_tesla.boring_boyd import suspicious_meitner as suspicious_meitner1
@@ -12,4 +12,4 @@ from elegant_tesla.boring_boyd import relaxed_einstein as relaxed_einstein1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.mystifying_euclid.dreamy_mayer import friendly_rosalind as friendly_rosalind1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

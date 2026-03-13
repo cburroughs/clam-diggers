@@ -6,7 +6,7 @@ from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley2
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1

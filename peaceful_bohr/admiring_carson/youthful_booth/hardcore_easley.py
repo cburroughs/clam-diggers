@@ -12,6 +12,6 @@ from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilto
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

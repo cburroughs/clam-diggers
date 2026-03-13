@@ -16,4 +16,4 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import priceless
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra import dazzling_nightingale as dazzling_nightingale1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import festive_hopper as festive_hopper2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

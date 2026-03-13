@@ -11,7 +11,7 @@ from peaceful_bohr.admiring_carson.agitated_goldberg.wizardly_jepsen import peac
 from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as youthful_wescoff1
 from elegant_tesla.boring_dijkstra import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
 from peaceful_bohr.admiring_carson.agitated_goldberg.wizardly_jepsen import vigorous_knuth as vigorous_knuth1
 from peaceful_bohr.brave_dubinsky import stupefied_archimedes as stupefied_archimedes1

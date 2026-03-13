@@ -2,13 +2,13 @@ from elegant_tesla.reverent_goldwasser import hardcore_wing as hardcore_wing1
 from elegant_tesla.zen_pike import unruffled_clarke as unruffled_clarke1
 from elegant_tesla.reverent_goldwasser import elated_poincare as elated_poincare1
 from elegant_tesla.zen_pike import sleepy_euclid as sleepy_euclid1
-import gracious_bhaskara as gracious_bhaskara1
+from acoustic_whale import gracious_bhaskara as gracious_bhaskara1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import keen_wing as keen_wing1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_bell as vibrant_bell1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
-import condescending_franklin as condescending_franklin1
+from acoustic_whale import condescending_franklin as condescending_franklin1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.loving_bohr import relaxed_shirley as relaxed_shirley1

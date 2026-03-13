@@ -13,7 +13,7 @@ from elegant_tesla.boring_dijkstra import cranky_johnson as cranky_johnson1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.cranky_goldwasser import gracious_visvesvaraya as gracious_visvesvaraya1
 from elegant_tesla.zen_pike import cranky_almeida as cranky_almeida1
-import jovial_leavitt as jovial_leavitt1
+from acoustic_whale import jovial_leavitt as jovial_leavitt1
 from elegant_tesla.zen_pike import upbeat_khorana as upbeat_khorana1
 from elegant_tesla.zen_pike import quizzical_bose as quizzical_bose1
 from elegant_tesla.zen_pike import youthful_raman as youthful_raman1
@@ -31,7 +31,7 @@ from elegant_tesla.reverent_nightingale import serene_swanson as serene_swanson1
 from elegant_tesla.heuristic_babbage.mystifying_blackwell.agitated_hoover import wizardly_wescoff as wizardly_wescoff1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie2
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
-import wonderful_ptolemy as wonderful_ptolemy1
+from acoustic_whale import wonderful_ptolemy as wonderful_ptolemy1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import dreamy_turing as dreamy_turing1
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import elastic_gates as elastic_gates1
@@ -40,13 +40,13 @@ from elegant_tesla.cranky_goldwasser import infallible_easley as infallible_easl
 from stupefied_gates import agitated_chandrasekhar as agitated_chandrasekhar1
 from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
 from elegant_tesla.condescending_swirles import laughing_wright as laughing_wright1
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wright as awesome_wright1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie3
 from elegant_tesla.nifty_murdock import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
@@ -72,7 +72,7 @@ from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
 from elegant_tesla.condescending_swirles import condescending_swirles as condescending_swirles1
 from stupefied_gates import jovial_benz as jovial_benz1
 from elegant_tesla.boring_dijkstra import confident_hoover as confident_hoover1
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from elegant_tesla.reverent_goldwasser import stupefied_heisenberg as stupefied_heisenberg1
 from elegant_tesla.boring_dijkstra import optimistic_einstein as optimistic_einstein1
 from elegant_tesla.cranky_goldwasser import priceless_goldwasser as priceless_goldwasser1
@@ -106,7 +106,7 @@ from elegant_tesla.cranky_goldwasser import relaxed_perlman as relaxed_perlman1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_bell as vibrant_bell1
 from elegant_tesla.cranky_goldwasser.boring_agnesi import compassionate_lalande as compassionate_lalande1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
-import silly_rosalind as silly_rosalind1
+from acoustic_whale import silly_rosalind as silly_rosalind1
 from elegant_tesla.cranky_goldwasser.boring_agnesi import pensive_fermi as pensive_fermi1
 from elegant_tesla.cranky_goldwasser import priceless_austin as priceless_austin1
 from elegant_tesla.boring_boyd import suspicious_meitner as suspicious_meitner2
@@ -118,11 +118,11 @@ from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystify
 from elegant_tesla.cranky_goldwasser import upbeat_wright as upbeat_wright1
 from elegant_tesla.heuristic_babbage.hopeful_carson import youthful_wescoff as youthful_wescoff1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.cranky_goldwasser import dreamy_dijkstra as dreamy_dijkstra1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import wizardly_fermat as wizardly_fermat1
 from elegant_tesla.zen_pike.optimistic_hawking import sleepy_euclid as sleepy_euclid2
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale import optimistic_euclid as optimistic_euclid1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
 from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams2

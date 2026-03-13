@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1

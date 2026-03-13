@@ -7,7 +7,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as 
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley2
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.cranky_goldwasser import modest_curie as modest_curie1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import practical_turing as practical_turing1

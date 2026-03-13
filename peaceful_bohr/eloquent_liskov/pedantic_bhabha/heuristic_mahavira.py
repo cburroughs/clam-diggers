@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import mystifying_goldwasser as mystifying_goldwasser1
 from elegant_tesla.pedantic_bhabha.objective_northcutt import goofy_bose as goofy_bose1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
@@ -9,7 +9,7 @@ from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.pedantic_bhabha.objective_northcutt import youthful_mestorf as youthful_mestorf1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import elegant_darwin as elegant_darwin1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import mystifying_goldwasser as mystifying_goldwasser2
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.pedantic_bhabha.objective_northcutt import trusting_poincare as trusting_poincare1
 from elegant_tesla.reverent_nightingale import clever_lichterman as clever_lichterman1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

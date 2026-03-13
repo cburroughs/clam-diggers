@@ -1,4 +1,4 @@
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import festive_hodgkin as festive_hodgkin1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser import focused_mirzakhani as focused_mirzakhani2
@@ -6,11 +6,11 @@ from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import h
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import pedantic_archimedes as pedantic_archimedes1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import unruffled_hoover as unruffled_hoover1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.confident_hoover import brave_dubinsky as brave_dubinsky1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.confident_hoover import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import sleepy_feynman as sleepy_feynman1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import nifty_murdock as nifty_murdock1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import admiring_mirzakhani as admiring_mirzakhani1

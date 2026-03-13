@@ -2,7 +2,7 @@ from elegant_tesla.zen_pike.cocky_goldstine import cranky_ramanujan as cranky_ra
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import wizardly_fermat as wizardly_fermat1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_cray as lucid_cray1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.frosty_austin import goofy_bose as goofy_bose1
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.frosty_austin import cranky_lamport as cranky_lamport1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

@@ -1,4 +1,4 @@
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from stupefied_gates import infallible_banach as infallible_banach1
 from modest_stonebraker.brave_mccarthy import mystifying_dubinsky as mystifying_dubinsky1
 from modest_stonebraker.brave_mccarthy import determined_ptolemy as determined_ptolemy1

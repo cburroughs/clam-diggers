@@ -25,7 +25,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import n
 from elegant_tesla.reverent_nightingale import suspicious_goldwasser as suspicious_goldwasser1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie3
 from elegant_tesla.zen_pike import angry_shirley as angry_shirley1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1

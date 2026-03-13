@@ -6,5 +6,5 @@ from elegant_tesla.boring_boyd import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import heuristic_hopper as heuristic_hopper1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1

@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.cranky_goldwasser import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
 from elegant_tesla.zen_pike import competent_jennings as competent_jennings1

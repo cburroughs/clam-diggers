@@ -1,6 +1,6 @@
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.silly_goodall import practical_johnson as practical_johnson1
-from peaceful_bhabha.friendly_lalande import youthful_volhard as youthful_volhard1
+from acoustic_whale.peaceful_bhabha.friendly_lalande import youthful_volhard as youthful_volhard1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import silly_goodall as silly_goodall1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
@@ -15,7 +15,7 @@ from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani a
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.silly_goodall import zen_pike as zen_pike1
 from peaceful_bohr.zen_pike import cocky_cray as cocky_cray1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.silly_goodall import goofy_bose as goofy_bose1
 from elegant_tesla.boring_dijkstra import thirsty_kirch as thirsty_kirch1
 from stupefied_gates import loving_feynman as loving_feynman1

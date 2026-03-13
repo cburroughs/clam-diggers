@@ -1,1 +1,1 @@
-import eager_goldstine as eager_goldstine1
+from acoustic_whale import eager_goldstine as eager_goldstine1

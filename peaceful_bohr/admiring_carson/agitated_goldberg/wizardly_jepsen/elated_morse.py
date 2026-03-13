@@ -6,7 +6,7 @@ from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
 from elegant_tesla.boring_boyd.agitated_goldberg import festive_hodgkin as festive_hodgkin1
 from peaceful_bohr.admiring_carson.agitated_goldberg.wizardly_jepsen import nostalgic_jackson as nostalgic_jackson1
 from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
-import epic_elion as epic_elion1
+from acoustic_whale import epic_elion as epic_elion1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt1
 from peaceful_bohr.brave_dubinsky import elated_leavitt as elated_leavitt2
 from elegant_tesla.boring_dijkstra.agitated_goldberg import quirky_cori as quirky_cori1
@@ -20,4 +20,4 @@ from peaceful_bohr.admiring_carson.agitated_goldberg.wizardly_jepsen import affe
 from peaceful_bohr import zen_curie as zen_curie1
 from stupefied_gates import infallible_keller as infallible_keller1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

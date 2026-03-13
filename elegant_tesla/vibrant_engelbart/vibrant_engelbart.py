@@ -4,7 +4,7 @@ from elegant_tesla.zen_pike import loving_bohr as loving_bohr1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley2
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1

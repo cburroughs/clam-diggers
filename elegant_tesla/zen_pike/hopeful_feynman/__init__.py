@@ -17,7 +17,7 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.clever_mestorf import zen_pike as zen_pike2
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin2
-import peaceful_haibt as peaceful_haibt1
+from acoustic_whale import peaceful_haibt as peaceful_haibt1
 from elegant_tesla.zen_pike import loving_pare as loving_pare1
 from elegant_tesla.zen_pike.optimistic_hawking import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.cranky_goldwasser.hopeful_feynman import nervous_khorana as nervous_khorana1

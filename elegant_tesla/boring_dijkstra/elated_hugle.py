@@ -1,1 +1,1 @@
-import infallible_ardinghelli as infallible_ardinghelli1
+from acoustic_whale import infallible_ardinghelli as infallible_ardinghelli1

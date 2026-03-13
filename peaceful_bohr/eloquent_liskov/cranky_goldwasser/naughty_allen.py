@@ -3,4 +3,4 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley1
 from elegant_tesla.cranky_goldwasser import dreamy_dijkstra as dreamy_dijkstra1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

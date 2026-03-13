@@ -17,4 +17,4 @@ from peaceful_bohr.jovial_bell import pensive_kepler as pensive_kepler1
 from peaceful_bohr.brave_dubinsky import loving_snyder as loving_snyder1
 from peaceful_bohr.jovial_bell import ecstatic_sammet as ecstatic_sammet1
 from peaceful_bohr.brave_dubinsky import amazing_mestorf as amazing_mestorf1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

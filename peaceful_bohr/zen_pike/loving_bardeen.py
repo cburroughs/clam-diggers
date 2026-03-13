@@ -4,4 +4,4 @@ from peaceful_bohr.zen_pike import laughing_jackson as laughing_jackson1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

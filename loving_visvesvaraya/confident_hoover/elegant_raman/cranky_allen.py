@@ -4,4 +4,4 @@ from loving_visvesvaraya.confident_hoover.elegant_raman import lucid_spence as l
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import jovial_agnesi as jovial_agnesi1
 from loving_visvesvaraya.confident_hoover.elegant_raman import mystifying_volhard as mystifying_volhard1
 from loving_visvesvaraya.confident_hoover.elegant_raman import vigilant_visvesvaraya as vigilant_visvesvaraya1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1

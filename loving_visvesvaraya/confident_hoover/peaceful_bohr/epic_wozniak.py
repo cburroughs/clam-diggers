@@ -3,7 +3,7 @@ from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby a
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import blissful_bhaskara as blissful_bhaskara1
 from loving_visvesvaraya.confident_hoover.kind_morse.clever_yonath import zen_pike as zen_pike1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.determined_ptolemy import condescending_engelbart as condescending_engelbart1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import gallant_bartik as gallant_bartik1
 from loving_visvesvaraya.confident_hoover.kind_morse.clever_yonath import clever_yonath as clever_yonath1

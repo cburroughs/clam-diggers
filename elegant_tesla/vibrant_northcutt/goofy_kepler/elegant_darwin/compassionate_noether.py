@@ -18,7 +18,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sl
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import jolly_ride as jolly_ride1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimistic_hawking as optimistic_hawking2
-import infallible_swartz as infallible_swartz1
+from acoustic_whale import infallible_swartz as infallible_swartz1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import lucid_pike as lucid_pike1

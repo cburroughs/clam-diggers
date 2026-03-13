@@ -11,5 +11,5 @@ from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirz
 from elegant_tesla.zen_pike import youthful_bell as youthful_bell1
 from elegant_tesla.clever_mestorf import goofy_bose as goofy_bose1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1

@@ -10,8 +10,8 @@ from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northc
 from peaceful_bohr.friendly_lalande import thirsty_ride as thirsty_ride1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
-import vigorous_thompson as vigorous_thompson1
-from peaceful_bhabha import mystifying_minsky as mystifying_minsky1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale.peaceful_bhabha import mystifying_minsky as mystifying_minsky1
 from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.reverent_nightingale import sleepy_pike as sleepy_pike1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
@@ -20,9 +20,9 @@ from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_sh
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1
 from elegant_tesla.reverent_nightingale import optimistic_babbage as optimistic_babbage1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
-from peaceful_bhabha import nifty_ptolemy as nifty_ptolemy1
+from acoustic_whale.peaceful_bhabha import nifty_ptolemy as nifty_ptolemy1
 from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintock1
-from peaceful_bhabha import agitated_kowalevski as agitated_kowalevski1
+from acoustic_whale.peaceful_bhabha import agitated_kowalevski as agitated_kowalevski1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr import objective_kalam as objective_kalam1

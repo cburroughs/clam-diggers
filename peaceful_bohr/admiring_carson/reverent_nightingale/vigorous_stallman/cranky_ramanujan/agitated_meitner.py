@@ -9,4 +9,4 @@ from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincar
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.frosty_austin import sleepy_mestorf as sleepy_mestorf1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

@@ -1,4 +1,4 @@
-import thirsty_bose as thirsty_bose1
+from acoustic_whale import thirsty_bose as thirsty_bose1
 from elegant_tesla.heuristic_babbage.mystifying_blackwell.agitated_hoover.relaxed_bhaskara.quizzical_engelbart import youthful_wescoff as youthful_wescoff1
 from elegant_tesla.heuristic_babbage.mystifying_blackwell.agitated_hoover import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.heuristic_babbage.mystifying_blackwell.agitated_hoover.eager_ritchie import relaxed_stonebraker as relaxed_stonebraker1

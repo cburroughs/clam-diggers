@@ -7,7 +7,7 @@ from peaceful_bohr.cranky_mahavira import loving_varahamihira as loving_varahami
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import lucid_pike as lucid_pike1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from peaceful_bohr.cranky_mahavira import relaxed_bhaskara as relaxed_bhaskara1
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from elegant_tesla.heuristic_babbage.infallible_aryabhata.priceless_goldberg import stoic_nobel as stoic_nobel1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
@@ -28,7 +28,7 @@ from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.heuristic_babbage.agitated_hoover import zen_curie as zen_curie2

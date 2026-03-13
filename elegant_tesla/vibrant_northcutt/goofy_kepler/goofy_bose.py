@@ -1,5 +1,5 @@
 from elegant_tesla.vibrant_northcutt import mystifying_bhabha as mystifying_bhabha1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.vibrant_northcutt import jolly_brahmagupta as jolly_brahmagupta1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.boring_dijkstra import focused_fermi as focused_fermi1
@@ -11,12 +11,12 @@ from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli
 from stupefied_gates import jovial_benz as jovial_benz1
 from stupefied_gates import cranky_tesla as cranky_tesla1
 from elegant_tesla.boring_boyd import pedantic_kilby as pedantic_kilby1
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.vibrant_northcutt import sleepy_mclean as sleepy_mclean1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import suspicious_mclean as suspicious_mclean1
 from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
-import thirsty_bose as thirsty_bose1
+from acoustic_whale import thirsty_bose as thirsty_bose1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import heuristic_hopper as heuristic_hopper1
 from elegant_tesla.boring_dijkstra import cranky_johnson as cranky_johnson1
 from elegant_tesla.vibrant_northcutt.practical_colden import elastic_gates as elastic_gates1

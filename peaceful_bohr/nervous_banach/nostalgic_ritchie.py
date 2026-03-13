@@ -128,7 +128,7 @@ from elegant_tesla.youthful_booth.nervous_banach import silly_lewin as silly_lew
 from elegant_tesla.youthful_booth.nervous_banach import elegant_perlman as elegant_perlman1
 from elegant_tesla.youthful_booth.nervous_banach import affectionate_ardinghelli as affectionate_ardinghelli1
 from elegant_tesla.youthful_booth.nervous_banach import eager_pare as eager_pare1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth.nervous_banach import jovial_hodgkin as jovial_hodgkin1
 from elegant_tesla.youthful_booth.nervous_banach import quirky_saha as quirky_saha1
 from elegant_tesla.youthful_booth.nervous_banach import romantic_hodgkin as romantic_hodgkin1

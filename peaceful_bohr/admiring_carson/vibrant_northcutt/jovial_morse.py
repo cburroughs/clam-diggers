@@ -13,6 +13,6 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import quirky
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.vibrant_northcutt import cranky_hamilton as cranky_hamilton1
 from peaceful_bohr.brave_dubinsky import practical_liskov as practical_liskov1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import wizardly_neumann as wizardly_neumann1
 from peaceful_bohr.friendly_lalande import hopeful_beaver as hopeful_beaver1

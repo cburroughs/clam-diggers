@@ -1,1 +1,1 @@
-import angry_dijkstra as angry_dijkstra1
+from acoustic_whale import angry_dijkstra as angry_dijkstra1

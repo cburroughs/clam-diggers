@@ -7,8 +7,8 @@ from elegant_tesla.zen_pike import blissful_bose as blissful_bose2
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.boring_boyd import pedantic_jennings as pedantic_jennings1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import serene_stallman as serene_stallman1
-import angry_dijkstra as angry_dijkstra1
+from acoustic_whale import serene_stallman as serene_stallman1
+from acoustic_whale import angry_dijkstra as angry_dijkstra1
 from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1
 from elegant_tesla.zen_pike import loving_pare as loving_pare1
 from elegant_tesla.clever_mestorf.vigorous_colden.distracted_aryabhata.wonderful_hamilton import zen_pike as zen_pike1

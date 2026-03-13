@@ -4,4 +4,4 @@ from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser import fo
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import quirky_allen as quirky_allen1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

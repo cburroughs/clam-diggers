@@ -10,6 +10,6 @@ from elegant_tesla.zen_pike import jolly_darwin as jolly_darwin1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import vibrant_heyrovsky as vibrant_heyrovsky1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import vigorous_liskov as vigorous_liskov1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import festive_davinci as festive_davinci1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import upbeat_jackson as upbeat_jackson1
 from peaceful_bohr.admiring_carson.vibrant_northcutt.determined_lichterman import objective_perlman as objective_perlman1

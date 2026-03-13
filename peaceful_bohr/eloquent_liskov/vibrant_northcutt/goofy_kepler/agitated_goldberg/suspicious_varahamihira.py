@@ -10,6 +10,6 @@ from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani a
 from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
 from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy2
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from stupefied_gates import loving_feynman as loving_feynman1

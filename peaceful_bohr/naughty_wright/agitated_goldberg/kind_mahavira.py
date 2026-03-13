@@ -7,6 +7,6 @@ from peaceful_bohr.zen_pike.agitated_goldberg import focused_feynman as focused_
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from peaceful_bohr.zen_pike.agitated_goldberg import epic_shirley as epic_shirley1

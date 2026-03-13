@@ -1,5 +1,5 @@
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import infallible_aryabhata as infallible_aryabhata1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.cranky_goldwasser import infallible_easley as infallible_easley1
@@ -24,7 +24,7 @@ from elegant_tesla.cranky_goldwasser import nostalgic_lovelace as nostalgic_love
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.zen_pike import quizzical_bhabha as quizzical_bhabha1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale import gallant_rosalind as gallant_rosalind1
@@ -37,7 +37,7 @@ from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_f
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
 from elegant_tesla.zen_pike import admiring_stallman as admiring_stallman1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import vigilant_newton as vigilant_newton1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import practical_turing as practical_turing1
 from elegant_tesla.reverent_nightingale import wonderful_wilson as wonderful_wilson1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman2

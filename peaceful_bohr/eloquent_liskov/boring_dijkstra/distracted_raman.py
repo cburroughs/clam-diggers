@@ -8,6 +8,6 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as t
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elastic_bose as elastic_bose1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import nifty_murdock as nifty_murdock1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1

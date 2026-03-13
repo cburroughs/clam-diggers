@@ -8,7 +8,7 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northcutt1
 from peaceful_bohr.zen_pike import dazzling_nightingale as dazzling_nightingale1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
@@ -23,7 +23,7 @@ from elegant_tesla.clever_mestorf.agitated_goldberg import confident_shockley as
 from peaceful_bohr.eloquent_chandrasekhar.agitated_goldberg import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.zen_pike.agitated_goldberg import hardcore_easley as hardcore_easley1
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_boyd.agitated_goldberg import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
 from peaceful_bohr.zen_pike.agitated_goldberg import hopeful_booth as hopeful_booth1

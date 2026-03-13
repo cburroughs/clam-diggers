@@ -1,4 +1,4 @@
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import agitated_hoover as agitated_hoover1

@@ -1,1 +1,1 @@
-import serene_stallman as serene_stallman1
+from acoustic_whale import serene_stallman as serene_stallman1

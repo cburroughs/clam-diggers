@@ -11,7 +11,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import p
 from stupefied_gates import dazzling_hamilton as dazzling_hamilton1
 from elegant_tesla.vibrant_northcutt import cranky_hamilton as cranky_hamilton1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.boring_boyd import wizardly_kirch as wizardly_kirch1
 from elegant_tesla.boring_dijkstra import quizzical_shaw as quizzical_shaw1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1

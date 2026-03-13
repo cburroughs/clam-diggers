@@ -5,5 +5,5 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani2
 from stupefied_gates import agitated_chandrasekhar as agitated_chandrasekhar1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.quirky_swirles import vibrant_mayer as vibrant_mayer1

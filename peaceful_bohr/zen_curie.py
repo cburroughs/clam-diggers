@@ -1,5 +1,5 @@
-import condescending_franklin as condescending_franklin1
-import vigorous_thompson as vigorous_thompson1
-import amazing_cray as amazing_cray1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import condescending_franklin as condescending_franklin1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import amazing_cray as amazing_cray1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

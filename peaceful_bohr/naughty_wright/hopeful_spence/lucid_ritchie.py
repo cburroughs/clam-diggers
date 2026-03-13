@@ -9,6 +9,6 @@ from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from peaceful_bohr.friendly_lalande import elastic_swanson as elastic_swanson1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr import stoic_feynman as stoic_feynman1

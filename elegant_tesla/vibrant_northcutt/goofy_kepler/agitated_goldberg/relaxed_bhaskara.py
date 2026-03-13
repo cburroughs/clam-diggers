@@ -35,7 +35,7 @@ from elegant_tesla.boring_boyd import zen_pike as zen_pike2
 from elegant_tesla.boring_boyd.agitated_goldberg import festive_hodgkin as festive_hodgkin2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import heuristic_montalcini as heuristic_montalcini1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import quizzical_blackwell as quizzical_blackwell1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import trusting_brattain as trusting_brattain1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import cocky_bohr as cocky_bohr1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1

@@ -1,4 +1,4 @@
-import peaceful_turing as peaceful_turing1
+from acoustic_whale import peaceful_turing as peaceful_turing1
 from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
 from loving_visvesvaraya.lucid_shockley.nervous_banach.sad_murdock import fervent_swartz as fervent_swartz1
 from loving_visvesvaraya.lucid_shockley.awesome_morse.hardcore_volhard import fervent_swartz as fervent_swartz2

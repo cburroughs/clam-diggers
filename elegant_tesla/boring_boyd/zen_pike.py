@@ -1,8 +1,8 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
-import cranky_swanson as cranky_swanson1
-import affectionate_northcutt as affectionate_northcutt1
-import serene_stallman as serene_stallman1
+from acoustic_whale import cranky_swanson as cranky_swanson1
+from acoustic_whale import affectionate_northcutt as affectionate_northcutt1
+from acoustic_whale import serene_stallman as serene_stallman1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

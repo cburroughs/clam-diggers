@@ -8,7 +8,7 @@ from elegant_tesla.boring_dijkstra.agitated_goldberg import suspicious_curie as 
 from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import quirky_thompson as quirky_thompson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg.gifted_yonath import determined_ptolemy as determined_ptolemy2
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
 from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1

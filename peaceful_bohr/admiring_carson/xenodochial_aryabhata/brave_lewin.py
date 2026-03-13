@@ -2,5 +2,5 @@ from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_bana
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.xenodochial_aryabhata import kind_hopper as kind_hopper1
 from stupefied_gates import infallible_keller as infallible_keller1
-import vigorous_thompson as vigorous_thompson1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1

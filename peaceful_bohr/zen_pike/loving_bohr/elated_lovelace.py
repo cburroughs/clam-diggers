@@ -1,7 +1,7 @@
 from peaceful_bohr.zen_pike.loving_bohr import nifty_lovelace as nifty_lovelace1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
 from peaceful_bohr.zen_pike.loving_bohr import clever_boyd as clever_boyd1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1

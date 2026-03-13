@@ -9,7 +9,7 @@ from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northc
 from elegant_tesla.boring_dijkstra import infallible_thompson as infallible_thompson2
 from peaceful_bohr.brave_dubinsky import stoic_stallman as stoic_stallman1
 from peaceful_bohr import infallible_thompson as infallible_thompson3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
@@ -17,10 +17,10 @@ from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_m
 from elegant_tesla.reverent_nightingale import sleepy_pike as sleepy_pike1
 from peaceful_bohr.zen_pike import laughing_feynman as laughing_feynman1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from peaceful_bohr.friendly_lalande import nervous_borg as nervous_borg1
 from elegant_tesla.boring_boyd import wizardly_kirch as wizardly_kirch1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.reverent_nightingale import amazing_nightingale as amazing_nightingale1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1

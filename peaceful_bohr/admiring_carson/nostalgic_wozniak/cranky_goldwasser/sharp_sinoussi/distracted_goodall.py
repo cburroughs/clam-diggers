@@ -10,4 +10,4 @@ from peaceful_bohr.zen_pike import focused_torvalds as focused_torvalds1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

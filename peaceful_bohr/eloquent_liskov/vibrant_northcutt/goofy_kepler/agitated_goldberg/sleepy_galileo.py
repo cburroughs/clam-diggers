@@ -10,7 +10,7 @@ from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
 from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import determined_ptolemy as determined_ptolemy2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1
 from stupefied_gates import loving_feynman as loving_feynman1

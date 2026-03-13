@@ -10,4 +10,4 @@ from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trustin
 from peaceful_bohr.zen_pike import happy_rosalind as happy_rosalind1
 from elegant_tesla.boring_boyd import focused_bohr as focused_bohr1
 from elegant_tesla.reverent_goldwasser.happy_rosalind import nervous_euclid as nervous_euclid1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

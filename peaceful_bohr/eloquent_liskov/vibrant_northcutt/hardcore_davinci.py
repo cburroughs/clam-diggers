@@ -11,4 +11,4 @@ from elegant_tesla.vibrant_northcutt import elated_darwin as elated_darwin1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import goofy_bose as goofy_bose2
 from elegant_tesla.vibrant_northcutt.amazing_hoover import kind_engelbart as kind_engelbart1
 from peaceful_bohr.zen_pike import cocky_cray as cocky_cray1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

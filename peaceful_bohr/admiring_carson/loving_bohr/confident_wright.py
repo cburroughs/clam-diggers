@@ -13,5 +13,5 @@ from elegant_tesla.loving_bohr import gallant_kilby as gallant_kilby1
 from peaceful_bohr.admiring_carson import sharp_lamport as sharp_lamport1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

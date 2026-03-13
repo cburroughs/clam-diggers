@@ -27,7 +27,7 @@ from elegant_tesla.reverent_nightingale import serene_swanson as serene_swanson1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike3
 from elegant_tesla.zen_pike import unruffled_clarke as unruffled_clarke1
 from elegant_tesla.zen_pike.optimistic_hawking import eloquent_neumann as eloquent_neumann1
-import gracious_bhaskara as gracious_bhaskara1
+from acoustic_whale import gracious_bhaskara as gracious_bhaskara1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare2
 from elegant_tesla.reverent_nightingale import boring_brattain as boring_brattain1
 from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
@@ -52,7 +52,7 @@ from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystif
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import nifty_brattain as nifty_brattain2
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.reverent_nightingale import optimistic_euclid as optimistic_euclid1
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from elegant_tesla.reverent_nightingale import wonderful_wilson as wonderful_wilson1
 from elegant_tesla.boring_boyd import elated_darwin as elated_darwin1
 from elegant_tesla.zen_pike.optimistic_hawking import peaceful_tesla as peaceful_tesla1

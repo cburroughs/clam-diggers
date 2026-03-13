@@ -4,5 +4,5 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.vibrant_northcutt.practical_colden import determined_lichterman as determined_lichterman1
 from elegant_tesla.vibrant_northcutt.practical_colden import relaxed_bhaskara as relaxed_bhaskara1
 from peaceful_bohr import zen_curie as zen_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.brave_dubinsky.practical_colden import fervent_mahavira as fervent_mahavira1

@@ -1,10 +1,10 @@
 from elegant_tesla.zen_pike import ecstatic_goldberg as ecstatic_goldberg1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import frosty_mcclintock as frosty_mcclintock1
 from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
-import vibrant_volhard as vibrant_volhard1
+from acoustic_whale import vibrant_volhard as vibrant_volhard1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

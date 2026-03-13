@@ -6,6 +6,6 @@ from loving_visvesvaraya.confident_hoover.brave_nobel.vigilant_jennings import c
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import lucid_pike as lucid_pike1
 from loving_visvesvaraya.confident_hoover.brave_nobel.vigilant_jennings import confident_johnson as confident_johnson1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.brave_nobel.vigilant_jennings import zealous_morse as zealous_morse1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import gallant_bartik as gallant_bartik1

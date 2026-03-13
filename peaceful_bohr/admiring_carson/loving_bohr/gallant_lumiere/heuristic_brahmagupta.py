@@ -10,7 +10,7 @@ from elegant_tesla.loving_bohr.gallant_lumiere import practical_newton as practi
 from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
 from peaceful_bohr.admiring_carson.loving_bohr import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.loving_bohr import happy_leakey as happy_leakey1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import infallible_aryabhata as infallible_aryabhata1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

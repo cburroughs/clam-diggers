@@ -25,7 +25,7 @@ from elegant_tesla.reverent_nightingale.silly_easley import zen_curie as zen_cur
 from elegant_tesla.zen_pike import gallant_lichterman as gallant_lichterman1
 from elegant_tesla.reverent_nightingale import mystifying_ardinghelli as mystifying_ardinghelli1
 from elegant_tesla.reverent_goldwasser.keen_curie import infallible_aryabhata as infallible_aryabhata3
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
 from elegant_tesla.zen_pike.optimistic_hawking.elegant_bose import quirky_thompson as quirky_thompson1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import determined_ptolemy as determined_ptolemy1

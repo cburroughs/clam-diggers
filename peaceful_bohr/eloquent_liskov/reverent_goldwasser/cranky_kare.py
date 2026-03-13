@@ -5,7 +5,7 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

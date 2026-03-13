@@ -1,5 +1,5 @@
 from elegant_tesla.zen_pike import unruffled_clarke as unruffled_clarke1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import frosty_mcclintock as frosty_mcclintock1
 from elegant_tesla.ecstatic_agnesi import cocky_bohr as cocky_bohr1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1

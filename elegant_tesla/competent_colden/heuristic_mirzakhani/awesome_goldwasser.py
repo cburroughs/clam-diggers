@@ -18,4 +18,4 @@ from elegant_tesla.competent_colden.heuristic_mirzakhani.mystifying_volhard impo
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.competent_colden.heuristic_mirzakhani.mystifying_volhard import silly_beaver as silly_beaver1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

@@ -12,5 +12,5 @@ from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as elo
 from peaceful_bohr.friendly_lalande import epic_franklin as epic_franklin1
 from elegant_tesla.heuristic_babbage.sleepy_mestorf import youthful_wescoff as youthful_wescoff1
 from peaceful_bohr.upbeat_wing import focused_mirzakhani as focused_mirzakhani1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1

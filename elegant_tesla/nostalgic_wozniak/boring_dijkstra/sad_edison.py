@@ -48,14 +48,14 @@ from elegant_tesla.boring_dijkstra import hungry_poitras as hungry_poitras1
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
 from elegant_tesla.zen_pike import xenodochial_euclid as xenodochial_euclid1
-import frosty_brown as frosty_brown1
+from acoustic_whale import frosty_brown as frosty_brown1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from stupefied_gates import stoic_jackson as stoic_jackson1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import elated_darwin as elated_darwin1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley2
 from elegant_tesla.zen_pike import priceless_austin as priceless_austin1
 from elegant_tesla.zen_pike import sad_tesla as sad_tesla1

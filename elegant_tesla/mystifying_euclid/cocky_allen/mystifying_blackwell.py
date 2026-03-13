@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.mystifying_euclid import fervent_franklin as fervent_franklin1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1

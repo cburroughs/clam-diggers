@@ -3,5 +3,5 @@ from peaceful_bohr.admiring_carson.youthful_booth.keen_curie.infallible_aryabhat
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

@@ -10,4 +10,4 @@ from peaceful_bohr.admiring_carson import zen_curie as zen_curie3
 from peaceful_bohr.admiring_carson.pedantic_bhabha import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.pedantic_bhabha.objective_northcutt import trusting_poincare as trusting_poincare1
 from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

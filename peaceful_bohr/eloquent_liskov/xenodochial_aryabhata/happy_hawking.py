@@ -8,7 +8,7 @@ from peaceful_bohr.eloquent_liskov.xenodochial_aryabhata.brave_dubinsky import f
 from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
 from peaceful_bohr.eloquent_liskov.xenodochial_aryabhata.brave_dubinsky import pedantic_goldberg as pedantic_goldberg1
 from peaceful_bohr.eloquent_liskov.xenodochial_aryabhata.brave_dubinsky import sleepy_euclid as sleepy_euclid1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_liskov.xenodochial_aryabhata.brave_dubinsky import boring_dubinsky as boring_dubinsky1
 from peaceful_bohr.eloquent_liskov.xenodochial_aryabhata.brave_dubinsky import frosty_albattani as frosty_albattani1
 from peaceful_bohr.eloquent_liskov.xenodochial_aryabhata.brave_dubinsky import romantic_curie as romantic_curie1

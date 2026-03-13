@@ -1,4 +1,4 @@
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from loving_visvesvaraya.confident_hoover.brave_nobel import dreamy_cori as dreamy_cori1
 from loving_visvesvaraya.confident_hoover.determined_ptolemy import jovial_yalow as jovial_yalow1
 from loving_visvesvaraya.confident_hoover.brave_nobel import elastic_mclean as elastic_mclean1

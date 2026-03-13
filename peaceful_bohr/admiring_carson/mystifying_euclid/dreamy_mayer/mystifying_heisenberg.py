@@ -11,6 +11,6 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.mystifying_euclid.dreamy_mayer import mystifying_blackwell as mystifying_blackwell1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.zen_pike.optimistic_hawking import dreamy_mayer as dreamy_mayer2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.reverent_nightingale import mystifying_ardinghelli as mystifying_ardinghelli1
 from peaceful_bohr.brave_dubinsky import stupefied_archimedes as stupefied_archimedes1

@@ -7,5 +7,5 @@ from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.sharp_sin
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser import zen_pike as zen_pike1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1

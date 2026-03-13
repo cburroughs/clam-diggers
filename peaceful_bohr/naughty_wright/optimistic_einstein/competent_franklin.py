@@ -9,6 +9,6 @@ from peaceful_bohr.friendly_lalande import serene_lewin as serene_lewin1
 from peaceful_bohr import objective_kalam as objective_kalam1
 from peaceful_bohr.zen_pike import optimistic_einstein as optimistic_einstein1
 from peaceful_bohr.zen_pike import dazzling_nightingale as dazzling_nightingale1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1

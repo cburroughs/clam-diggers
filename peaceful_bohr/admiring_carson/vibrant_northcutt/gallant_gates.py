@@ -1,4 +1,4 @@
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import sleepy_mclean as sleepy_mclean1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import determined_ptolemy as determined_ptolemy1

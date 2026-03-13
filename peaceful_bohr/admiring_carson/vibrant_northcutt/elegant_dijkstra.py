@@ -9,6 +9,6 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bos
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import agitated_hoover as agitated_hoover1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1
 from peaceful_bohr.friendly_lalande import hopeful_beaver as hopeful_beaver1

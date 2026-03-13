@@ -13,11 +13,11 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elastic_boyd as elastic_boyd1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from elegant_tesla.reverent_goldwasser import laughing_cray as laughing_cray1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from peaceful_bohr.zen_pike import confident_panini as confident_panini1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from peaceful_bohr.admiring_carson import boring_meninsky as boring_meninsky1
 from peaceful_bohr.admiring_carson.clever_mestorf import boring_dijkstra as boring_dijkstra2

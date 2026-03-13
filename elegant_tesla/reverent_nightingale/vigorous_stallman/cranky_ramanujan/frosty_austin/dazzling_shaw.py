@@ -10,7 +10,7 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.frost
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import wizardly_hodgkin as wizardly_hodgkin1
+from acoustic_whale import wizardly_hodgkin as wizardly_hodgkin1
 from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw2
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import mystifying_brahmagupta as mystifying_brahmagupta1
@@ -19,5 +19,5 @@ from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystify
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import distracted_euclid as distracted_euclid1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie1
-import wonderful_ptolemy as wonderful_ptolemy1
+from acoustic_whale import wonderful_ptolemy as wonderful_ptolemy1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import epic_benz as epic_benz1

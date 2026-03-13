@@ -4,5 +4,5 @@ from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani a
 from stupefied_gates import heuristic_galileo as heuristic_galileo1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import relaxed_shirley as relaxed_shirley1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1

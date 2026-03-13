@@ -4,6 +4,6 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.clever_mestorf.agitated_goldberg import festive_hypatia as festive_hypatia1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_poitras as optimistic_poitras2
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1

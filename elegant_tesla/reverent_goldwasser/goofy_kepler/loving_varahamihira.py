@@ -4,7 +4,7 @@ from elegant_tesla.reverent_goldwasser.goofy_kepler import optimistic_hawking as
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1
 from elegant_tesla.zen_pike.optimistic_hawking import loving_pare as loving_pare1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from loving_visvesvaraya.stoic_borg import vibrant_bhaskara as vibrant_bhaskara1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1

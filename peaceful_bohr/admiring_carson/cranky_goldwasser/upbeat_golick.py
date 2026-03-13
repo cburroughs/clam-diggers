@@ -9,7 +9,7 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.cranky_goldwasser import fervent_rosalind as fervent_rosalind1
 from peaceful_bohr import zen_curie as zen_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.zen_pike import upbeat_khorana as upbeat_khorana1
 from elegant_tesla.cranky_goldwasser import gallant_yonath as gallant_yonath1

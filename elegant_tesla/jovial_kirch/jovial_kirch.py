@@ -1,7 +1,7 @@
-import amazing_shirley as amazing_shirley1
-import upbeat_beaver as upbeat_beaver1
+from acoustic_whale import amazing_shirley as amazing_shirley1
+from acoustic_whale import upbeat_beaver as upbeat_beaver1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.mystifying_euclid import condescending_pasteur as condescending_pasteur1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike1

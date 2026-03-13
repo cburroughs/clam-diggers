@@ -25,12 +25,12 @@ from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.vibrant_northcutt.practical_colden import determined_lichterman as determined_lichterman1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from loving_visvesvaraya.stoic_borg import vibrant_bhaskara as vibrant_bhaskara1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.vibrant_northcutt.practical_colden import epic_khorana as epic_khorana1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import gracious_bhaskara as gracious_bhaskara1
+from acoustic_whale import gracious_bhaskara as gracious_bhaskara1
 from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton1
 from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin2

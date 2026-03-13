@@ -5,11 +5,11 @@ from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
-import gallant_lalande as gallant_lalande1
+from acoustic_whale import gallant_lalande as gallant_lalande1
 from elegant_tesla.boring_dijkstra.hopeful_spence import optimistic_hawking as optimistic_hawking1
 from stupefied_gates import elastic_swanson as elastic_swanson1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import trusting_brattain as trusting_brattain1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1

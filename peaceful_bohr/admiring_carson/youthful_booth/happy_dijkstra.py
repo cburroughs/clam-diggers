@@ -6,7 +6,7 @@ from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from peaceful_bohr.admiring_carson.youthful_booth import serene_hawking as serene_hawking1
 from peaceful_bohr.admiring_carson import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner2

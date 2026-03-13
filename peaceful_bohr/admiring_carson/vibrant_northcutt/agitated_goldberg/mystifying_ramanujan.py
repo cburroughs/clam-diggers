@@ -5,5 +5,5 @@ from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani a
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import loving_feynman as loving_feynman1

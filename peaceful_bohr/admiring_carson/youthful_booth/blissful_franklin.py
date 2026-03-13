@@ -9,5 +9,5 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.admiring_carson import sharp_lamport as sharp_lamport1
 from elegant_tesla.boring_dijkstra import dazzling_nightingale as dazzling_nightingale1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1

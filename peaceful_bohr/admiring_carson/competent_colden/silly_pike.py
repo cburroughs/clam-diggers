@@ -14,11 +14,11 @@ from peaceful_bohr.admiring_carson import zen_curie as zen_curie3
 from peaceful_bohr.brave_dubinsky import pensive_payne as pensive_payne1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from peaceful_bohr.admiring_carson import adoring_neumann as adoring_neumann1
-import pedantic_mclean as pedantic_mclean1
+from acoustic_whale import pedantic_mclean as pedantic_mclean1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import wizardly_hodgkin as wizardly_hodgkin1
+from acoustic_whale import wizardly_hodgkin as wizardly_hodgkin1
 from stupefied_gates import tender_noether as tender_noether1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import dazzling_shaw as dazzling_shaw2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from peaceful_bohr.brave_dubinsky import frosty_goldberg as frosty_goldberg1

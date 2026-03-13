@@ -14,5 +14,5 @@ from elegant_tesla.pedantic_bhabha.objective_northcutt import trusting_poincare 
 from elegant_tesla.pedantic_bhabha.objective_northcutt import awesome_swirles as awesome_swirles1
 from peaceful_bohr.zen_pike import happy_rosalind as happy_rosalind1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import friendly_panini as friendly_panini1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.pedantic_bhabha.objective_northcutt import brave_noyce as brave_noyce1

@@ -2,7 +2,7 @@ from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.zen_pike import happy_rosalind as happy_rosalind1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike.gracious_tesla import zen_curie as zen_curie1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
 from elegant_tesla.boring_boyd import pedantic_jennings as pedantic_jennings1

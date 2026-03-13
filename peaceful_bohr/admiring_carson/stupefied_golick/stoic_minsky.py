@@ -10,10 +10,10 @@ from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from peaceful_bohr.admiring_carson import zen_curie as zen_curie2
 from elegant_tesla.stupefied_golick import stupefied_golick as stupefied_golick1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
-import angry_haibt as angry_haibt1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import angry_haibt as angry_haibt1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata2
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2

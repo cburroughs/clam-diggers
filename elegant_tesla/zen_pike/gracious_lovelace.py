@@ -1,1 +1,1 @@
-import condescending_franklin as condescending_franklin1
+from acoustic_whale import condescending_franklin as condescending_franklin1

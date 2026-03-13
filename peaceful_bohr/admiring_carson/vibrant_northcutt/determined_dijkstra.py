@@ -14,7 +14,7 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import heuristic_hopper as heuristic_hopper1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import loving_pare as loving_pare1
 from elegant_tesla.boring_dijkstra.musing_fermi import optimistic_hawking as optimistic_hawking2
 from elegant_tesla.reverent_goldwasser.goofy_kepler import elegant_darwin as elegant_darwin2

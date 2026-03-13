@@ -2,5 +2,5 @@ from peaceful_bohr.brave_dubinsky import stupefied_archimedes as stupefied_archi
 from elegant_tesla.boring_dijkstra import optimistic_poitras as optimistic_poitras1
 from peaceful_bohr.brave_dubinsky import elated_leavitt as elated_leavitt1
 from elegant_tesla.boring_dijkstra import dreamy_mayer as dreamy_mayer1
-import vigorous_thompson as vigorous_thompson1
-import sad_thompson as sad_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

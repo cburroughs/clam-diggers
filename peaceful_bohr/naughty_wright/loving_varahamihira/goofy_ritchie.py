@@ -8,8 +8,8 @@ from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintoc
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira2
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1

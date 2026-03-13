@@ -5,5 +5,5 @@ from loving_visvesvaraya.confident_hoover.boring_dijkstra import eloquent_darwin
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import lucid_pike as lucid_pike1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import optimistic_jennings as optimistic_jennings1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.brave_nobel import elastic_mclean as elastic_mclean1

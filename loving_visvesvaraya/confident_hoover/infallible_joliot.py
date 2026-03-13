@@ -1,4 +1,4 @@
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from loving_visvesvaraya.confident_hoover.kind_morse.wizardly_jepsen import wizardly_jepsen as wizardly_jepsen1
 from loving_visvesvaraya.confident_hoover.kind_morse.eloquent_chandrasekhar import eloquent_chandrasekhar as eloquent_chandrasekhar1
 from loving_visvesvaraya.confident_hoover.relaxed_spence import zen_curie as zen_curie1

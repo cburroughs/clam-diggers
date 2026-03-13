@@ -12,7 +12,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bos
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.cranky_goldwasser import fervent_rosalind as fervent_rosalind1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from elegant_tesla.zen_pike.festive_hopper import optimistic_hawking as optimistic_hawking1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.friendly_lalande import hopeful_beaver as hopeful_beaver1

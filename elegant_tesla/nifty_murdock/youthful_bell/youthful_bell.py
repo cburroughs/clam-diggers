@@ -7,5 +7,5 @@ from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import romantic_leakey as romantic_leakey1
-import jovial_swartz as jovial_swartz1
+from acoustic_whale import romantic_leakey as romantic_leakey1
+from acoustic_whale import jovial_swartz as jovial_swartz1

@@ -7,4 +7,4 @@ from elegant_tesla.reverent_nightingale.nervous_ride import vigorous_albattani a
 from elegant_tesla.youthful_booth import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.zen_pike import pedantic_hermann as pedantic_hermann1
 from elegant_tesla.youthful_booth import flamboyant_mcnulty as flamboyant_mcnulty1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

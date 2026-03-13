@@ -1,1 +1,1 @@
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1

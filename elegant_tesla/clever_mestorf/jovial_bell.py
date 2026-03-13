@@ -1,4 +1,4 @@
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1

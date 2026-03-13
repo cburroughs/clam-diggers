@@ -8,7 +8,7 @@ from peaceful_bohr.jovial_bell import reverent_meitner as reverent_meitner1
 from peaceful_bohr.lucid_hypatia import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.cranky_mahavira import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1

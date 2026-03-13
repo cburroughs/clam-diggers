@@ -1,7 +1,7 @@
 from elegant_tesla.cranky_goldwasser import zen_pike as zen_pike1
 from elegant_tesla.cranky_goldwasser import naughty_mcclintock as naughty_mcclintock1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley1
-import vibrant_volhard as vibrant_volhard1
+from acoustic_whale import vibrant_volhard as vibrant_volhard1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
 from elegant_tesla.reverent_goldwasser import sleepy_ramanujan as sleepy_ramanujan1

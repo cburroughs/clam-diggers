@@ -12,7 +12,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sl
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
 from stupefied_gates import nervous_fermat as nervous_fermat1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.cranky_goldwasser import lucid_haibt as lucid_haibt1
 from elegant_tesla.cranky_goldwasser import keen_northcutt as keen_northcutt1
 from elegant_tesla.cranky_goldwasser import confident_albattani as confident_albattani1
@@ -22,7 +22,7 @@ from elegant_tesla.cranky_goldwasser import quirky_lewin as quirky_lewin1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from peaceful_bohr.admiring_carson import boring_meninsky as boring_meninsky1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.cranky_goldwasser import pedantic_stonebraker as pedantic_stonebraker1

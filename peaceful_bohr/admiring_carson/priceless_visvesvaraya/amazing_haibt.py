@@ -5,5 +5,5 @@ from elegant_tesla.boring_boyd.clever_raman import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd.stupefied_kirch import goofy_jepsen as goofy_jepsen1
 from elegant_tesla.boring_boyd.clever_raman import youthful_bhabha as youthful_bhabha1
 from elegant_tesla.boring_boyd.clever_raman import vigorous_albattani as vigorous_albattani1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.priceless_visvesvaraya import practical_euclid as practical_euclid1

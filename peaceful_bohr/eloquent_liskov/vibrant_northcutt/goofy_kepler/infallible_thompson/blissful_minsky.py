@@ -4,5 +4,5 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler import infallible_thompson as 
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler.infallible_thompson import focused_mirzakhani as focused_mirzakhani3
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani4
 from elegant_tesla.boring_boyd import relaxed_dijkstra as relaxed_dijkstra1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import eloquent_colden as eloquent_colden1

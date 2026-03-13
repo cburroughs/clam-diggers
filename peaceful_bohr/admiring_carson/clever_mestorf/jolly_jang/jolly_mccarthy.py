@@ -4,5 +4,5 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import zealous_varahamihira as zealous_varahamihira1
 from peaceful_bohr.admiring_carson.clever_mestorf import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson import zen_curie as zen_curie1

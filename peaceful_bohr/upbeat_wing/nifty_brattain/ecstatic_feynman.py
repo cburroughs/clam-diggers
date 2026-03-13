@@ -13,10 +13,10 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import agitated_hoover as agitated_hoover1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr.upbeat_wing import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr import zen_curie as zen_curie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.heuristic_babbage.agitated_hoover import zen_curie as zen_curie3
 from peaceful_bohr.zen_pike import confident_panini as confident_panini1

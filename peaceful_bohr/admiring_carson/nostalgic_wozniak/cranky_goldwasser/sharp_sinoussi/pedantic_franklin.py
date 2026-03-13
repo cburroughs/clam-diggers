@@ -17,6 +17,6 @@ from elegant_tesla.zen_pike import frosty_mccarthy as frosty_mccarthy1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

@@ -1,10 +1,10 @@
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import zen_goldberg as zen_goldberg1
-import upbeat_beaver as upbeat_beaver1
+from acoustic_whale import upbeat_beaver as upbeat_beaver1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import suspicious_wiles as suspicious_wiles1
 from elegant_tesla.zen_pike import admiring_stallman as admiring_stallman1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import musing_fermi as musing_fermi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.zen_pike.optimistic_hawking import peaceful_tesla as peaceful_tesla1

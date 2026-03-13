@@ -6,5 +6,5 @@ from peaceful_bohr.jovial_bell import cranky_raman as cranky_raman1
 from peaceful_bohr.brave_dubinsky import musing_fermi as musing_fermi1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
-import gracious_kare as gracious_kare1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import gracious_kare as gracious_kare1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

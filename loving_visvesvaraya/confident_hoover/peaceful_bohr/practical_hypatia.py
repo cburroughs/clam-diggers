@@ -10,5 +10,5 @@ from loving_visvesvaraya.confident_hoover.boring_dijkstra import lucid_pike as l
 from loving_visvesvaraya.confident_hoover.kind_morse.hungry_euclid import hungry_euclid as hungry_euclid1
 from loving_visvesvaraya.confident_hoover.kind_morse.jovial_clarke import hardcore_carson as hardcore_carson1
 from loving_visvesvaraya.confident_hoover.kind_morse.jovial_clarke import jovial_clarke as jovial_clarke1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.determined_ptolemy import affectionate_turing as affectionate_turing1

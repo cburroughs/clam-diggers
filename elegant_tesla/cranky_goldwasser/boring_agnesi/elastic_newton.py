@@ -1,1 +1,1 @@
-import eloquent_morse as eloquent_morse1
+from acoustic_whale import eloquent_morse as eloquent_morse1

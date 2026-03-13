@@ -9,6 +9,6 @@ from loving_visvesvaraya.confident_hoover.boring_dijkstra import angry_borg as a
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby as focused_kilby1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import gallant_bartik as gallant_bartik1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.kind_morse.cranky_ramanujan import cranky_ramanujan as cranky_ramanujan1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import tender_golick as tender_golick1

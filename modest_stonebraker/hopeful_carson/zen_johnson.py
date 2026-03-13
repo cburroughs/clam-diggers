@@ -1,4 +1,4 @@
 from modest_stonebraker.hopeful_carson import clever_brown as clever_brown1
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from modest_stonebraker.hopeful_carson import epic_wiles as epic_wiles1
-import hopeful_northcutt as hopeful_northcutt1
+from acoustic_whale import hopeful_northcutt as hopeful_northcutt1

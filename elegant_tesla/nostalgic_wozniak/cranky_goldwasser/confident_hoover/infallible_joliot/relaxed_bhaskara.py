@@ -1,5 +1,5 @@
 from elegant_tesla.cranky_goldwasser import priceless_austin as priceless_austin1
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import keen_wing as keen_wing1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import laughing_feynman as laughing_feynman1

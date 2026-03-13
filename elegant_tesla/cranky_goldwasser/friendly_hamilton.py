@@ -6,7 +6,7 @@ from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_mei
 from elegant_tesla.zen_pike import jolly_meninsky as jolly_meninsky1
 from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.cranky_goldwasser import priceless_austin as priceless_austin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik1

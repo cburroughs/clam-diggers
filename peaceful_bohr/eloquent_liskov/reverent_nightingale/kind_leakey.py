@@ -9,5 +9,5 @@ from elegant_tesla.reverent_nightingale.nervous_ride import epic_khorana as epic
 from elegant_tesla.reverent_nightingale.nervous_ride import optimistic_jennings as optimistic_jennings1
 from elegant_tesla.reverent_nightingale.nervous_ride import vigorous_albattani as vigorous_albattani1
 from elegant_tesla.reverent_nightingale.nervous_ride import thirsty_montalcini as thirsty_montalcini1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

@@ -1,7 +1,7 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import quirky_davinci as quirky_davinci1
 from elegant_tesla.boring_dijkstra.musing_fermi import optimistic_hawking as optimistic_hawking1
-import nostalgic_dubinsky as nostalgic_dubinsky1
+from acoustic_whale import nostalgic_dubinsky as nostalgic_dubinsky1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import silly_goodall as silly_goodall1
@@ -23,6 +23,6 @@ from elegant_tesla.zen_pike import loving_pare as loving_pare1
 from elegant_tesla.zen_pike.optimistic_hawking import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import zealous_yonath as zealous_yonath1
 from elegant_tesla.zen_pike import compassionate_rosalind as compassionate_rosalind1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1

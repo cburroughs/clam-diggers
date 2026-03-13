@@ -8,7 +8,7 @@ from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.heuristic_babbage.youthful_bell import zen_curie as zen_curie3
 from elegant_tesla.xenodochial_aryabhata import awesome_morse as awesome_morse1
 from elegant_tesla.heuristic_babbage.youthful_bell import lucid_benz as lucid_benz1
-import infallible_curie as infallible_curie1
+from acoustic_whale import infallible_curie as infallible_curie1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1

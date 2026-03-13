@@ -15,5 +15,5 @@ from elegant_tesla.zen_pike.optimistic_hawking import wizardly_volhard as wizard
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.loving_bohr import happy_leakey as happy_leakey1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import festive_hopper as festive_hopper1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

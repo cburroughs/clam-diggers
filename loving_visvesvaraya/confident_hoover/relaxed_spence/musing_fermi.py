@@ -1,2 +1,2 @@
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from loving_visvesvaraya.zen_pike import pensive_lumiere as pensive_lumiere1

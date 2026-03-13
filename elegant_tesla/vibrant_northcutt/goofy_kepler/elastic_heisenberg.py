@@ -1,4 +1,4 @@
-import frosty_saha as frosty_saha1
+from acoustic_whale import frosty_saha as frosty_saha1
 from elegant_tesla.vibrant_northcutt import jolly_brahmagupta as jolly_brahmagupta1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import silly_allen as silly_allen1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
@@ -12,6 +12,6 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import suspicious_mclean as suspicious_mclean1
 from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from elegant_tesla.vibrant_northcutt import cranky_hamilton as cranky_hamilton1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1

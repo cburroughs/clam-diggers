@@ -15,10 +15,10 @@ from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
 from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as youthful_wescoff1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import elastic_mestorf as elastic_mestorf1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg.gifted_yonath import determined_ptolemy as determined_ptolemy2
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from peaceful_bohr import zen_curie as zen_curie2
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import determined_ptolemy as determined_ptolemy3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1

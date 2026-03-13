@@ -13,5 +13,5 @@ from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as yout
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1

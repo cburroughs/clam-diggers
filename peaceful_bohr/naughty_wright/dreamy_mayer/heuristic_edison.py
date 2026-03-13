@@ -15,6 +15,6 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.zen_pike.optimistic_hawking import dreamy_mayer as dreamy_mayer2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

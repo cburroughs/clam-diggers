@@ -25,7 +25,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import ama
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import relaxed_kepler as relaxed_kepler1
 from elegant_tesla.boring_dijkstra import loving_varahamihira as loving_varahamihira1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import clever_hoover as clever_hoover1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import eloquent_northcutt as eloquent_northcutt1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import loving_pare as loving_pare1

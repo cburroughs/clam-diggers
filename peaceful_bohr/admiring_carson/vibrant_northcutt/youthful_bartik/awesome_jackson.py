@@ -15,4 +15,4 @@ from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani a
 from elegant_tesla.vibrant_northcutt import gifted_blackwell as gifted_blackwell1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import serene_newton as serene_newton1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra as dazzling_dijkstra1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

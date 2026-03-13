@@ -12,8 +12,8 @@ from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
-import angry_dijkstra as angry_dijkstra1
-import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import angry_dijkstra as angry_dijkstra1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import quirky_allen as quirky_allen1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton2

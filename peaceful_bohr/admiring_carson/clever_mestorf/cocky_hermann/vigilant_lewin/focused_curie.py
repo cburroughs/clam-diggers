@@ -10,9 +10,9 @@ from peaceful_bohr.admiring_carson import zen_curie as zen_curie2
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from peaceful_bohr.admiring_carson.clever_mestorf.cocky_hermann import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import jolly_volhard as jolly_volhard1
 from peaceful_bohr.admiring_carson.clever_mestorf import romantic_bose as romantic_bose1
 from elegant_tesla.clever_mestorf.cocky_hermann.vigilant_lewin import silly_goldstine as silly_goldstine1
 from elegant_tesla.clever_mestorf.cocky_hermann.vigilant_lewin import awesome_morse as awesome_morse1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

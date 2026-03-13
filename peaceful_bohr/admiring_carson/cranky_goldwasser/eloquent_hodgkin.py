@@ -8,10 +8,10 @@ from peaceful_bohr.admiring_carson import zen_curie as zen_curie2
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from peaceful_bohr import zen_curie as zen_curie3
 from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
 from elegant_tesla.cranky_goldwasser import happy_wright as happy_wright1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.zen_pike import zealous_gates as zealous_gates1

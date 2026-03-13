@@ -6,4 +6,4 @@ from peaceful_bohr.eloquent_liskov.reverent_nightingale.blissful_northcutt impor
 from elegant_tesla.reverent_nightingale.zen_bohr.blissful_northcutt import elegant_darwin as elegant_darwin1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale.zen_bohr import elegant_darwin as elegant_darwin2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

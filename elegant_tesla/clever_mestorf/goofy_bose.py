@@ -53,14 +53,14 @@ from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirz
 from elegant_tesla.zen_pike import serene_shirley as serene_shirley1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
-import naughty_nightingale as naughty_nightingale1
+from acoustic_whale import naughty_nightingale as naughty_nightingale1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import vigilant_hopper as vigilant_hopper1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.zen_pike import happy_rosalind as happy_rosalind1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
-import lucid_jackson as lucid_jackson1
+from acoustic_whale import lucid_jackson as lucid_jackson1
 from elegant_tesla.mystifying_euclid import gracious_shannon as gracious_shannon1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

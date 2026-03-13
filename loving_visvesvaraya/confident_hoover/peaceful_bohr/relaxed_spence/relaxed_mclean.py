@@ -1,4 +1,4 @@
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from loving_visvesvaraya.confident_hoover.relaxed_spence import eloquent_dubinsky as eloquent_dubinsky1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

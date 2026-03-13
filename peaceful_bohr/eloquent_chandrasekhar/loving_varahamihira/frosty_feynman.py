@@ -1,7 +1,7 @@
 from elegant_tesla.clever_mestorf.loving_varahamihira import inspiring_noyce as inspiring_noyce1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from peaceful_bohr.friendly_lalande import heuristic_lalande as heuristic_lalande1
-import gallant_lalande as gallant_lalande1
+from acoustic_whale import gallant_lalande as gallant_lalande1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
@@ -15,7 +15,7 @@ from peaceful_bohr.zen_pike import relaxed_curran as relaxed_curran1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.zen_pike.optimistic_hawking import loving_pare as loving_pare1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import epic_elion as epic_elion1
+from acoustic_whale import epic_elion as epic_elion1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira1
@@ -41,7 +41,7 @@ from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitn
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
 from peaceful_bohr.brave_dubinsky import stoic_stallman as stoic_stallman1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr.brave_dubinsky import zealous_bell as zealous_bell1
 from elegant_tesla.reverent_nightingale import sleepy_pike as sleepy_pike1
@@ -51,11 +51,11 @@ from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystif
 from elegant_tesla.reverent_nightingale import amazing_nightingale as amazing_nightingale1
 from peaceful_bohr.zen_pike import elated_leavitt as elated_leavitt1
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from peaceful_bohr.zen_pike import confident_goldwasser as confident_goldwasser1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr import objective_kalam as objective_kalam1
 from elegant_tesla.reverent_nightingale import mystifying_liskov as mystifying_liskov1
 from elegant_tesla.reverent_nightingale import frosty_neumann as frosty_neumann1

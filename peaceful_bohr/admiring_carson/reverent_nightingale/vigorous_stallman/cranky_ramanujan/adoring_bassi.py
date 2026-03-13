@@ -1,4 +1,4 @@
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relaxed_bhaskara import nervous_bardeen as nervous_bardeen1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1

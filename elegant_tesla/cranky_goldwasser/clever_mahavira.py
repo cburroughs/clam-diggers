@@ -1,5 +1,5 @@
 from elegant_tesla.boring_dijkstra import blissful_noether as blissful_noether1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.reverent_goldwasser import stupefied_heisenberg as stupefied_heisenberg1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import priceless_noyce as priceless_noyce1
 from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1

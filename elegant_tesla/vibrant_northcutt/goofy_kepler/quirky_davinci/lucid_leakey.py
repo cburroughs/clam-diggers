@@ -5,7 +5,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import xenodoch
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from stupefied_gates import heuristic_galileo as heuristic_galileo1
 from elegant_tesla.boring_boyd import amazing_yalow as amazing_yalow1
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1

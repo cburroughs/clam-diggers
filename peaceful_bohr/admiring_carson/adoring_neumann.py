@@ -19,6 +19,6 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import dazzling_
 from elegant_tesla.reverent_goldwasser.keen_curie import wizardly_fermat as wizardly_fermat1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
 from elegant_tesla.zen_pike import loving_pare as loving_pare1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.brave_dubinsky import frosty_goldberg as frosty_goldberg2
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

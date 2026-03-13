@@ -1,4 +1,4 @@
-import awesome_thompson as awesome_thompson1
+from acoustic_whale import awesome_thompson as awesome_thompson1
 from elegant_tesla.vibrant_northcutt import sleepy_mclean as sleepy_mclean1
 from elegant_tesla.vibrant_northcutt import zen_curie as zen_curie1
 from elegant_tesla.vibrant_northcutt import naughty_williams as naughty_williams1

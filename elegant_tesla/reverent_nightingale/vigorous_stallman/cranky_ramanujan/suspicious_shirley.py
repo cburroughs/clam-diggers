@@ -12,6 +12,6 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festi
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import mystifying_brahmagupta as mystifying_brahmagupta1
-import suspicious_goldstine as suspicious_goldstine1
+from acoustic_whale import suspicious_goldstine as suspicious_goldstine1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import sleepy_mestorf as sleepy_mestorf1

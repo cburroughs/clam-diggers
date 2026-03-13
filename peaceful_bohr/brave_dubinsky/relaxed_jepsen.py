@@ -5,7 +5,7 @@ from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import nifty_brattain as nifty_brattain1
 from peaceful_bohr.admiring_carson import boring_meninsky as boring_meninsky1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
 from peaceful_bohr.brave_dubinsky import stupefied_archimedes as stupefied_archimedes1

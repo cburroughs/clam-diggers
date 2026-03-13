@@ -1,2 +1,2 @@
-import wizardly_hodgkin as wizardly_hodgkin1
+from acoustic_whale import wizardly_hodgkin as wizardly_hodgkin1
 from stupefied_gates import hardcore_torvalds as hardcore_torvalds1

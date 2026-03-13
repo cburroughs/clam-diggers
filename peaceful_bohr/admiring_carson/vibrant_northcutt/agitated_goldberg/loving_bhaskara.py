@@ -14,7 +14,7 @@ from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as w
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import determined_ptolemy as determined_ptolemy1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import loving_feynman as loving_feynman1
 from peaceful_bohr.brave_dubinsky import agitated_goldberg as agitated_goldberg1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
@@ -25,7 +25,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import heuri
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import quizzical_blackwell as quizzical_blackwell1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from peaceful_bohr.zen_pike import awesome_mccarthy as awesome_mccarthy1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import gallant_babbage as gallant_babbage1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.ecstatic_newton import clever_hoover as clever_hoover1
@@ -39,11 +39,11 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as youthful_wescoff2
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import elastic_mestorf as elastic_mestorf1
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from peaceful_bohr import zen_curie as zen_curie2
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin2
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1
-import confident_swirles as confident_swirles1
+from acoustic_whale import confident_swirles as confident_swirles1

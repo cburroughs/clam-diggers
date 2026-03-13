@@ -1,7 +1,7 @@
 from elegant_tesla.zen_pike import ecstatic_goldberg as ecstatic_goldberg1
 from elegant_tesla.boring_dijkstra.tender_heisenberg import mystifying_volhard as mystifying_volhard1
 from elegant_tesla.boring_dijkstra.festive_hopper import mystifying_volhard as mystifying_volhard2
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import quirky_davinci as quirky_davinci1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
@@ -18,7 +18,7 @@ from elegant_tesla.boring_dijkstra import sharp_stallman as sharp_stallman1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid2
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
-import serene_stallman as serene_stallman1
+from acoustic_whale import serene_stallman as serene_stallman1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.reverent_goldwasser import laughing_cray as laughing_cray1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1

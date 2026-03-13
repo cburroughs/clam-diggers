@@ -6,6 +6,6 @@ from elegant_tesla.cranky_goldwasser import romantic_wozniak as romantic_wozniak
 from elegant_tesla.reverent_nightingale import unruffled_franklin as unruffled_franklin1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from peaceful_bohr.zen_pike import hardcore_newton as hardcore_newton1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.zen_pike import admiring_galileo as admiring_galileo1
 from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams1

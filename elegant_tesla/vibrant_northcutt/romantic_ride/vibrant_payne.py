@@ -7,7 +7,7 @@ from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import zen_pike as zen_pike2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_payne as vibrant_payne1
-import vigorous_kepler as vigorous_kepler1
+from acoustic_whale import vigorous_kepler as vigorous_kepler1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.boring_dijkstra import distracted_hawking as distracted_hawking1
 from stupefied_gates import frosty_sammet as frosty_sammet1
@@ -15,13 +15,13 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.dreamy_mayer import xenodochia
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import xenodochial_bohr as xenodochial_bohr2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.dreamy_mayer import musing_lalande as musing_lalande1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import mystifying_euclid as mystifying_euclid1
 from elegant_tesla.boring_dijkstra.musing_fermi import optimistic_hawking as optimistic_hawking2
 from elegant_tesla.vibrant_northcutt.romantic_ride import goofy_bose as goofy_bose1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import xenodochial_bohr as xenodochial_bohr3

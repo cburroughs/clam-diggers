@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
 from elegant_tesla.reverent_goldwasser import elated_poincare as elated_poincare1
 from elegant_tesla.zen_pike import sleepy_euclid as sleepy_euclid1
@@ -31,11 +31,11 @@ from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.zen_pike import gifted_ritchie as gifted_ritchie1
 from elegant_tesla.zen_pike import sad_tesla as sad_tesla1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.boring_dijkstra.awesome_morse import elated_poincare as elated_poincare2
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import modest_kirch as modest_kirch1
+from acoustic_whale import modest_kirch as modest_kirch1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra as dazzling_dijkstra1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1

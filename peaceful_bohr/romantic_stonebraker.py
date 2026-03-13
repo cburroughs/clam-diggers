@@ -16,7 +16,7 @@ from peaceful_bohr.zen_pike import elated_leavitt as elated_leavitt1
 from elegant_tesla.mystifying_euclid.clever_raman import affectionate_stonebraker as affectionate_stonebraker1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.mystifying_euclid.clever_raman import gifted_allen as gifted_allen1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from peaceful_bohr.zen_pike import confident_goldwasser as confident_goldwasser1
 from elegant_tesla.boring_boyd.clever_raman import modest_wescoff as modest_wescoff1
 from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintock1
@@ -26,7 +26,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.priceless_visvesvaraya import priceless_visvesvaraya as priceless_visvesvaraya1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr import objective_kalam as objective_kalam1
 from stupefied_gates import infallible_keller as infallible_keller1
 from elegant_tesla.boring_boyd.clever_raman import youthful_bhabha as youthful_bhabha1

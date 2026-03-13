@@ -1,2 +1,2 @@
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import unruffled_hoover as unruffled_hoover1

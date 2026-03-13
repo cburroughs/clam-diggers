@@ -1,3 +1,3 @@
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
-import vigorous_thompson as vigorous_thompson1
-import zen_panini as zen_panini1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import zen_panini as zen_panini1

@@ -23,7 +23,7 @@ from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import infallible_aryabhata as infallible_aryabhata1
 from elegant_tesla.zen_pike.optimistic_hawking.elegant_bose import hopeful_ritchie as hopeful_ritchie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
@@ -37,9 +37,9 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as 
 from elegant_tesla.boring_boyd import zen_curie as zen_curie3
 from elegant_tesla.zen_pike.optimistic_hawking import sleepy_euclid as sleepy_euclid2
 from peaceful_bohr.admiring_carson import boring_meninsky as boring_meninsky1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relaxed_bhaskara import zen_curie as zen_curie4
-import jovial_swartz as jovial_swartz1
+from acoustic_whale import jovial_swartz as jovial_swartz1
 from elegant_tesla.heuristic_babbage import youthful_lamport as youthful_lamport1
 from peaceful_bohr.zen_pike.loving_bohr import elated_lovelace as elated_lovelace1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

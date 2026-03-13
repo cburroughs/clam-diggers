@@ -3,5 +3,5 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.reverent_bose import ecstatic_wing as ecstatic_wing1
 from peaceful_bohr.admiring_carson.youthful_booth.relaxed_stonebraker import zen_pike as zen_pike1
 from peaceful_bohr.zen_pike import youthful_booth as youthful_booth2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson import zen_curie as zen_curie1

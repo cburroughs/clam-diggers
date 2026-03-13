@@ -1,1 +1,1 @@
-import festive_shirley as festive_shirley1
+from acoustic_whale import festive_shirley as festive_shirley1

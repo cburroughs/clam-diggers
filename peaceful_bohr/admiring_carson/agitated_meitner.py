@@ -29,7 +29,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as el
 from peaceful_bohr.jovial_bell import pensive_kepler as pensive_kepler1
 from peaceful_bohr import zen_curie as zen_curie2
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import zealous_yonath as zealous_yonath1
-import vigilant_torvalds as vigilant_torvalds1
+from acoustic_whale import vigilant_torvalds as vigilant_torvalds1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
@@ -48,20 +48,20 @@ from peaceful_bohr.jovial_bell import tender_poitras as tender_poitras1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import stupefied_hawking as stupefied_hawking1
 from peaceful_bohr.brave_dubinsky import amazing_mestorf as amazing_mestorf1
 from peaceful_bohr.jovial_bell import serene_hodgkin as serene_hodgkin1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr2
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie4
 from elegant_tesla.reverent_goldwasser import lucid_easley as lucid_easley1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import amazing_curran as amazing_curran1
+from acoustic_whale import amazing_curran as amazing_curran1
 from peaceful_bohr.brave_dubinsky import jovial_agnesi as jovial_agnesi1
 from peaceful_bohr.brave_dubinsky import festive_allen as festive_allen1
 from peaceful_bohr.admiring_carson import upbeat_williams as upbeat_williams1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import dreamy_mayer as dreamy_mayer1
 from peaceful_bohr.brave_dubinsky import elated_leavitt as elated_leavitt3
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from peaceful_bohr.admiring_carson import infallible_easley as infallible_easley1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser1
 from elegant_tesla.boring_boyd import elated_darwin as elated_darwin1

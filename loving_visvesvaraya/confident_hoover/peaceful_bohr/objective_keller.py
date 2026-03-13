@@ -7,6 +7,6 @@ from loving_visvesvaraya.confident_hoover.peaceful_bohr import jovial_archimedes
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import elegant_panini as elegant_panini1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import unruffled_darwin as unruffled_darwin1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.determined_ptolemy import condescending_engelbart as condescending_engelbart1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import tender_golick as tender_golick1

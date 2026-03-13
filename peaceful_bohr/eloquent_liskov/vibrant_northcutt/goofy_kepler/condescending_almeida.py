@@ -1,6 +1,6 @@
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani3

@@ -7,7 +7,7 @@ from elegant_tesla.reverent_goldwasser.frosty_heyrovsky import boring_dijkstra a
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import nifty_murdock as nifty_murdock1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.reverent_goldwasser.frosty_heyrovsky import agitated_goldberg as agitated_goldberg1
 from elegant_tesla.reverent_goldwasser.frosty_heyrovsky import laughing_cray as laughing_cray1

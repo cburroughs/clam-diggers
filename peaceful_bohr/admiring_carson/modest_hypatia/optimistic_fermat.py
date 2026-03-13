@@ -7,5 +7,5 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import keen_wing as keen_wing1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import agitated_hoover as agitated_hoover2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.modest_hypatia import agitated_hoover as agitated_hoover3

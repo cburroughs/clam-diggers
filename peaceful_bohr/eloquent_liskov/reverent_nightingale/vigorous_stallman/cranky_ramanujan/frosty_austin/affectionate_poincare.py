@@ -7,5 +7,5 @@ from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata2
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import zealous_yonath as zealous_yonath1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import suspicious_shirley as suspicious_shirley1

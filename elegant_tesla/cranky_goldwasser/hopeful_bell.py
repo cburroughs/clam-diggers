@@ -1,16 +1,16 @@
 from elegant_tesla.zen_pike import loving_edison as loving_edison1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.cranky_goldwasser import boring_edison as boring_edison1
 from elegant_tesla.zen_pike import youthful_raman as youthful_raman1
 from elegant_tesla.zen_pike import competent_jennings as competent_jennings1
-import vibrant_volhard as vibrant_volhard1
+from acoustic_whale import vibrant_volhard as vibrant_volhard1
 from elegant_tesla.cranky_goldwasser.awesome_noyce import suspicious_fermat as suspicious_fermat1
 from elegant_tesla.cranky_goldwasser import jolly_lalande as jolly_lalande1
 from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1
 from loving_visvesvaraya.laughing_austin import peaceful_morse as peaceful_morse1
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams1
 from elegant_tesla.cranky_goldwasser.awesome_noyce import wonderful_heisenberg as wonderful_heisenberg1
 from elegant_tesla.cranky_goldwasser import zen_pike as zen_pike1

@@ -26,7 +26,7 @@ from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_f
 from elegant_tesla.zen_pike import adoring_knuth as adoring_knuth1
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

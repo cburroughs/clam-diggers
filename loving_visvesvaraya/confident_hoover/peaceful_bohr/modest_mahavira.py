@@ -1,4 +1,4 @@
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby as focused_kilby1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import jovial_archimedes as jovial_archimedes1
 from loving_visvesvaraya.confident_hoover.kind_morse.peaceful_mccarthy import optimistic_gates as optimistic_gates1

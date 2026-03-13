@@ -3,5 +3,5 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.zen_pike.relaxed_thompson import trusting_meitner as trusting_meitner1

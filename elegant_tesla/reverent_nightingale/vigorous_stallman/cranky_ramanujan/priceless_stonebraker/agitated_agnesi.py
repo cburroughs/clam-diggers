@@ -1,6 +1,6 @@
 from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike1
-import unruffled_yonath as unruffled_yonath1
+from acoustic_whale import unruffled_yonath as unruffled_yonath1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.boring_boyd import focused_bohr as focused_bohr1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1

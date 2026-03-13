@@ -5,7 +5,7 @@ from peaceful_bohr.brave_dubinsky.practical_colden import eager_almeida as eager
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler.loving_varahamihira import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import loving_varahamihira as loving_varahamihira1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani3
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

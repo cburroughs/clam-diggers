@@ -7,4 +7,4 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
 from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
 from peaceful_bohr.admiring_carson import boring_meninsky as boring_meninsky1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

@@ -16,15 +16,15 @@ from elegant_tesla.zen_pike import modest_poitras as modest_poitras1
 from elegant_tesla.boring_boyd import focused_bohr as focused_bohr1
 from elegant_tesla.zen_pike.optimistic_hawking.elegant_bose import hopeful_ritchie as hopeful_ritchie1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import nervous_visvesvaraya as nervous_visvesvaraya1
+from acoustic_whale import nervous_visvesvaraya as nervous_visvesvaraya1
 from elegant_tesla.zen_pike import optimistic_jackson as optimistic_jackson1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import festive_knuth as festive_knuth1
 from elegant_tesla.nifty_murdock import boring_dijkstra as boring_dijkstra1
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
 from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import youthful_bell as youthful_bell1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.zen_pike.optimistic_hawking import sleepy_euclid as sleepy_euclid3
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
 from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1

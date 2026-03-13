@@ -1,5 +1,5 @@
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import infallible_aryabhata as infallible_aryabhata1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from stupefied_gates import infallible_banach as infallible_banach1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.heuristic_babbage.mystifying_blackwell.agitated_hoover.relaxed_bhaskara.quizzical_engelbart import youthful_wescoff as youthful_wescoff1
@@ -13,11 +13,11 @@ from elegant_tesla.zen_pike.optimistic_hawking.wizardly_wescoff import infallibl
 from elegant_tesla.reverent_goldwasser.keen_curie import dazzling_shaw as dazzling_shaw2
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.heuristic_babbage.mystifying_blackwell.agitated_hoover.relaxed_bhaskara.quizzical_engelbart import zen_curie as zen_curie3
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from elegant_tesla.cranky_goldwasser import zen_pike as zen_pike2
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import agitated_hoover as agitated_hoover2
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import wizardly_hodgkin as wizardly_hodgkin1
+from acoustic_whale import wizardly_hodgkin as wizardly_hodgkin1
 from stupefied_gates import tender_noether as tender_noether1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import dazzling_shaw as dazzling_shaw3
 from elegant_tesla.reverent_goldwasser.keen_curie import wizardly_fermat as wizardly_fermat1

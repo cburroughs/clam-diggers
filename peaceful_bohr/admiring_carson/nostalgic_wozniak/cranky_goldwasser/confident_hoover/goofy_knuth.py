@@ -5,4 +5,4 @@ from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.confident
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import hungry_fermi as hungry_fermi1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

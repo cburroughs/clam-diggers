@@ -5,6 +5,6 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from peaceful_bohr.zen_pike import happy_wescoff as happy_wescoff1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import confident_torvalds as confident_torvalds1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import gifted_lalande as gifted_lalande1

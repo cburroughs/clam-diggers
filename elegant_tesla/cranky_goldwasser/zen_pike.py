@@ -11,7 +11,7 @@ from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.cranky_goldwasser import fervent_rosalind as fervent_rosalind1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import boring_dijkstra as boring_dijkstra1
-import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
 from elegant_tesla.zen_pike import modest_poitras as modest_poitras1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wright as awesome_wright1
@@ -22,9 +22,9 @@ from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
 from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
 from elegant_tesla.zen_pike import priceless_austin as priceless_austin1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
-import zealous_mclean as zealous_mclean1
+from acoustic_whale import zealous_mclean as zealous_mclean1
 from elegant_tesla.zen_pike.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra2

@@ -1,1 +1,1 @@
-import cranky_swanson as cranky_swanson1
+from acoustic_whale import cranky_swanson as cranky_swanson1

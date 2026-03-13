@@ -9,7 +9,7 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan impor
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import clever_haibt as clever_haibt1
 from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import pensive_bohr as pensive_bohr1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relaxed_bhaskara import jolly_austin as jolly_austin1

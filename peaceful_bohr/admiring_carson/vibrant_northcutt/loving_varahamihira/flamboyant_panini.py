@@ -12,5 +12,5 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.boring_boyd.zealous_kowalevski import vigorous_albattani as vigorous_albattani1
 from elegant_tesla.boring_dijkstra import boring_wing as boring_wing1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd.zealous_kowalevski import optimistic_hawking as optimistic_hawking1

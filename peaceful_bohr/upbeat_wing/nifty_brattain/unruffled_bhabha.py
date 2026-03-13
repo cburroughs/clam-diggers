@@ -11,7 +11,7 @@ from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import festive_blackwell as festive_blackwell1
 from peaceful_bohr.upbeat_wing import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.heuristic_babbage.festive_blackwell import lucid_pike as lucid_pike1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.heuristic_babbage.festive_blackwell import youthful_wescoff as youthful_wescoff1
 from peaceful_bohr.friendly_lalande import kind_archimedes as kind_archimedes1

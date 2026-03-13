@@ -3,4 +3,4 @@ from elegant_tesla.cranky_goldwasser import romantic_wozniak as romantic_wozniak
 from peaceful_bohr.zen_pike import hardcore_newton as hardcore_newton1
 from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from elegant_tesla.reverent_nightingale import eager_williams as eager_williams1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

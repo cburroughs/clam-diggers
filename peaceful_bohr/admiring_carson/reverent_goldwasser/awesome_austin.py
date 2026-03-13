@@ -6,6 +6,6 @@ from elegant_tesla.reverent_goldwasser.goofy_kepler import dreamy_mayer as dream
 from elegant_tesla.boring_boyd import infallible_kowalevski as infallible_kowalevski1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.reverent_goldwasser.goofy_kepler import silly_goodall as silly_goodall1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import zen_pike as zen_pike1

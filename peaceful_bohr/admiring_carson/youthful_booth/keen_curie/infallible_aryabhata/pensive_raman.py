@@ -1,5 +1,5 @@
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import infallible_aryabhata as infallible_aryabhata1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from peaceful_bohr.admiring_carson.youthful_booth import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
@@ -13,6 +13,6 @@ from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import mystifying_go
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
-import vigorous_thompson as vigorous_thompson1
-import sad_thompson as sad_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from peaceful_bohr.admiring_carson.youthful_booth.keen_curie.infallible_aryabhata import focused_mirzakhani as focused_mirzakhani3

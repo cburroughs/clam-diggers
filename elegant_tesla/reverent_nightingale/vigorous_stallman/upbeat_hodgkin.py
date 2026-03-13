@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from stupefied_gates import infallible_banach as infallible_banach1
 from elegant_tesla.heuristic_babbage import angry_lamarr as angry_lamarr1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import infallible_aryabhata as infallible_aryabhata1

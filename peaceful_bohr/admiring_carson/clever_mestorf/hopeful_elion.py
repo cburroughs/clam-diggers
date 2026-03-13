@@ -1,11 +1,11 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.zen_pike.optimistic_hawking import eager_franklin as eager_franklin1
 from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
 from elegant_tesla.zen_pike import trusting_panini as trusting_panini1
 from peaceful_bohr.admiring_carson.clever_mestorf import focused_mirzakhani as focused_mirzakhani2
-import silly_rosalind as silly_rosalind1
+from acoustic_whale import silly_rosalind as silly_rosalind1
 from peaceful_bohr.admiring_carson import competent_bohr as competent_bohr1
 from peaceful_bohr.admiring_carson import zen_curie as zen_curie1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_yonath as hungry_yonath1
@@ -16,14 +16,14 @@ from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trustin
 from peaceful_bohr import blissful_pasteur as blissful_pasteur1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from stupefied_gates import elastic_dijkstra as elastic_dijkstra1
 from peaceful_bohr.brave_dubinsky import frosty_goldberg as frosty_goldberg1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from peaceful_bohr.admiring_carson import upbeat_williams as upbeat_williams1
 from elegant_tesla.zen_pike.optimistic_hawking import loving_pare as loving_pare1
 from elegant_tesla.clever_mestorf.vigorous_colden import vigorous_colden as vigorous_colden1
@@ -33,12 +33,12 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import zealous_v
 from peaceful_bohr.admiring_carson.clever_mestorf import boring_dijkstra as boring_dijkstra1
 from elegant_tesla.zen_pike import serene_bose as serene_bose1
 from elegant_tesla.zen_pike.optimistic_hawking import youthful_booth as youthful_booth2
-import jovial_swartz as jovial_swartz1
+from acoustic_whale import jovial_swartz as jovial_swartz1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman2
-import festive_neumann as festive_neumann1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import festive_neumann as festive_neumann1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import trusting_leakey as trusting_leakey1
+from acoustic_whale import trusting_leakey as trusting_leakey1
 from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton2
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import friendly_panini as friendly_panini1
 from peaceful_bohr import sleepy_bohr as sleepy_bohr1

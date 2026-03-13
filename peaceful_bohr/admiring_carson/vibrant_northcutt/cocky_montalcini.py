@@ -21,7 +21,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra a
 from peaceful_bohr import zen_curie as zen_curie2
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from peaceful_bohr.zen_pike.musing_fermi import pensive_dijkstra as pensive_dijkstra1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import loving_pare as loving_pare1

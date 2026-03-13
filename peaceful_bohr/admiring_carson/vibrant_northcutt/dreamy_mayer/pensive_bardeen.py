@@ -5,6 +5,6 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.friendly_lalande import unruffled_hodgkin as unruffled_hodgkin1
 from peaceful_bohr import zen_curie as zen_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

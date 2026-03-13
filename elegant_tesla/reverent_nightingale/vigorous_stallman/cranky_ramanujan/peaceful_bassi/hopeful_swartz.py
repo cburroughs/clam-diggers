@@ -1,5 +1,5 @@
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import hopeful_swartz as hopeful_swartz1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.heuristic_babbage.hopeful_swartz import lucid_pike as lucid_pike1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

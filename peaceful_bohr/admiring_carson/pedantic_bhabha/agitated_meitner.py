@@ -3,4 +3,4 @@ from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.admiring_carson.pedantic_bhabha import relaxed_shirley as relaxed_shirley1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import zealous_varahamihira as zealous_varahamihira1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

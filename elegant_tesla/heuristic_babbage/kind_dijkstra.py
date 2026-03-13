@@ -4,7 +4,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import h
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import nifty_brattain as nifty_brattain1
 from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
-import condescending_franklin as condescending_franklin1
+from acoustic_whale import condescending_franklin as condescending_franklin1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

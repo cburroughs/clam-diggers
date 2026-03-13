@@ -5,7 +5,7 @@ from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimistic_hawking as optimistic_hawking2
 from elegant_tesla.vibrant_northcutt.youthful_wescoff import boring_neumann as boring_neumann1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import gifted_lalande as gifted_lalande1

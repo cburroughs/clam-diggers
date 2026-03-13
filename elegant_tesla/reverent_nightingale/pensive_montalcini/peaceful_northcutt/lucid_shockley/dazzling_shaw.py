@@ -3,7 +3,7 @@ from elegant_tesla.reverent_nightingale.pensive_montalcini import confident_poit
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
 from elegant_tesla.reverent_nightingale.pensive_montalcini.peaceful_northcutt.lucid_shockley import goofy_bose as goofy_bose1
 from elegant_tesla.zen_pike import vibrant_bartik as vibrant_bartik1
-import compassionate_mcclintock as compassionate_mcclintock1
+from acoustic_whale import compassionate_mcclintock as compassionate_mcclintock1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.zen_pike import confident_hermann as confident_hermann1
 from elegant_tesla.heuristic_babbage.dazzling_shaw import priceless_austin as priceless_austin1

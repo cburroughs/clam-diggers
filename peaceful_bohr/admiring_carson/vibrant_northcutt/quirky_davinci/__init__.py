@@ -2,7 +2,7 @@ from stupefied_gates import heuristic_galileo as heuristic_galileo1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import youthful_kowalevski as youthful_kowalevski1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import eloquent_colden as eloquent_colden1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import lucid_leakey as lucid_leakey1

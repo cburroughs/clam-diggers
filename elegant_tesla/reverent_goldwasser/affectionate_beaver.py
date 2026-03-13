@@ -1,4 +1,4 @@
-import sleepy_borg as sleepy_borg1
+from acoustic_whale import sleepy_borg as sleepy_borg1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.zen_pike import frosty_mccarthy as frosty_mccarthy1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1

@@ -7,7 +7,7 @@ from peaceful_bohr.zen_pike import determined_mirzakhani as determined_mirzakhan
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import confident_torvalds as confident_torvalds1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import mystifying_volhard as mystifying_volhard1
 from peaceful_bohr.zen_pike.relaxed_thompson import naughty_saha as naughty_saha1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import elegant_darwin as elegant_darwin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
@@ -22,6 +22,6 @@ from peaceful_bohr.brave_dubinsky import musing_morse as musing_morse1
 from peaceful_bohr.zen_pike.relaxed_thompson import zen_curie as zen_curie1
 from peaceful_bohr import zen_curie as zen_curie2
 from peaceful_bohr.zen_pike.relaxed_thompson import jolly_ride as jolly_ride1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.zen_pike.musing_fermi import adoring_jang as adoring_jang1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2

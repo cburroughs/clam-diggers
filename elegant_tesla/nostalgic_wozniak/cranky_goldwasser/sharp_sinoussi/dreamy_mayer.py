@@ -16,4 +16,4 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_ha
 from stupefied_gates import stoic_jackson as stoic_jackson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

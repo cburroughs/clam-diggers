@@ -11,4 +11,4 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relax
 from elegant_tesla.loving_bohr import relaxed_shirley as relaxed_shirley1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relaxed_bhaskara import zen_curie as zen_curie2
 from peaceful_bohr.zen_pike import cranky_ramanujan as cranky_ramanujan1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

@@ -5,7 +5,7 @@ from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from stupefied_gates import agitated_chandrasekhar as agitated_chandrasekhar1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.brave_dubinsky import jolly_borg as jolly_borg1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from peaceful_bohr.naughty_wright.youthful_bartik import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.naughty_wright.youthful_bartik import relaxed_shirley as relaxed_shirley1

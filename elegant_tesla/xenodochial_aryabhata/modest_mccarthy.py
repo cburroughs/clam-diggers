@@ -1,1 +1,1 @@
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1

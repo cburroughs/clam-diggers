@@ -1,5 +1,5 @@
 from elegant_tesla.silly_payne import musing_stonebraker as musing_stonebraker1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.reverent_nightingale import serene_swanson as serene_swanson1

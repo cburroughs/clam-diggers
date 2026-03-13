@@ -29,7 +29,7 @@ from elegant_tesla.zen_pike import adoring_knuth as adoring_knuth1
 from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
 from elegant_tesla.zen_pike import naughty_turing as naughty_turing1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie3
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1

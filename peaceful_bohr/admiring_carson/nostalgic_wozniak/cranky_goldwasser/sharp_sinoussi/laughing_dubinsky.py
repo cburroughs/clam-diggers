@@ -10,4 +10,4 @@ from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.sharp_sin
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

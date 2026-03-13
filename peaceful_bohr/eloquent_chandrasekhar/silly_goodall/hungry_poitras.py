@@ -19,7 +19,7 @@ from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from peaceful_bohr.friendly_lalande import nervous_borg as nervous_borg1
 from elegant_tesla.reverent_nightingale import amazing_nightingale as amazing_nightingale1
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
 from peaceful_bohr.brave_dubinsky import zen_murdock as zen_murdock1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1

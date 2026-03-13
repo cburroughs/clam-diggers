@@ -11,4 +11,4 @@ from elegant_tesla.zen_pike import confident_hermann as confident_hermann1
 from elegant_tesla.frosty_goldberg import musing_raman as musing_raman1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

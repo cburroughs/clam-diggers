@@ -12,5 +12,5 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra a
 from peaceful_bohr.brave_dubinsky import musing_fermi as musing_fermi1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import sad_wright as sad_wright1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import boring_heisenberg as boring_heisenberg1

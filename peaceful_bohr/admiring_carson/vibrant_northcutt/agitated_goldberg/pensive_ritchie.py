@@ -10,9 +10,9 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import youth
 from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as youthful_wescoff2
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import elastic_mestorf as elastic_mestorf1
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from peaceful_bohr.zen_pike import trusting_montalcini as trusting_montalcini1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1
 from stupefied_gates import loving_feynman as loving_feynman1

@@ -1,1 +1,1 @@
-import awesome_thompson as awesome_thompson1
+from acoustic_whale import awesome_thompson as awesome_thompson1

@@ -4,4 +4,4 @@ from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
 from stupefied_gates import dazzling_khorana as dazzling_khorana1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

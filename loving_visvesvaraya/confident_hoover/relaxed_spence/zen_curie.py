@@ -1,1 +1,1 @@
-import cocky_williams as cocky_williams1
+from acoustic_whale import cocky_williams as cocky_williams1

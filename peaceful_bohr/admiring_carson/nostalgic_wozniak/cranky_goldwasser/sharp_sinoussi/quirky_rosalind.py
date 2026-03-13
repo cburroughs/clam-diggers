@@ -4,4 +4,4 @@ from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani a
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import musing_lumiere as musing_lumiere1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser import focused_mirzakhani as focused_mirzakhani3
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

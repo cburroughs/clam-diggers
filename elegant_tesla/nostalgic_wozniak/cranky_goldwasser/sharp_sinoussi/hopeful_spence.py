@@ -1,5 +1,5 @@
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import angry_pasteur as angry_pasteur1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1

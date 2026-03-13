@@ -5,5 +5,5 @@ from elegant_tesla.reverent_goldwasser.frosty_jackson import infallible_thompson
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from peaceful_bohr.admiring_carson.clever_mestorf import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson.clever_mestorf import eloquent_nightingale as eloquent_nightingale1

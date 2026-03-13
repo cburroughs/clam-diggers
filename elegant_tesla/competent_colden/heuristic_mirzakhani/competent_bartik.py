@@ -10,7 +10,7 @@ from elegant_tesla.competent_colden.heuristic_mirzakhani import optimistic_hawki
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from elegant_tesla.competent_colden.heuristic_mirzakhani.mystifying_volhard import epic_wiles as epic_wiles1
-import angry_haibt as angry_haibt1
+from acoustic_whale import angry_haibt as angry_haibt1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata2
 from elegant_tesla.competent_colden.heuristic_mirzakhani.mystifying_volhard import silly_beaver as silly_beaver1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

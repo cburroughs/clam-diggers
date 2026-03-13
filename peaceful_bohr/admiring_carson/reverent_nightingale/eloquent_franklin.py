@@ -5,6 +5,6 @@ from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
 from elegant_tesla.zen_pike.optimistic_hawking import upbeat_goodall as upbeat_goodall1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from peaceful_bohr.zen_pike import happy_rosalind as happy_rosalind1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from peaceful_bohr.admiring_carson.reverent_nightingale import zen_pike as zen_pike1

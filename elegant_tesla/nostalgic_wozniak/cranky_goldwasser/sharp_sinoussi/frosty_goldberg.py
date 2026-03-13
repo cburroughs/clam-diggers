@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_bell as vibrant_bell1
 from elegant_tesla.zen_pike.optimistic_hawking import frosty_goldberg as frosty_goldberg1
@@ -22,7 +22,7 @@ from stupefied_gates import stoic_jackson as stoic_jackson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.zen_pike import hardcore_stonebraker as hardcore_stonebraker1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.zen_pike import epic_blackwell as epic_blackwell1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1

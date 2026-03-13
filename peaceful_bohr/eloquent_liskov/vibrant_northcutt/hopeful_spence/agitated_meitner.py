@@ -7,5 +7,5 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.hopeful_spence import ecstatic
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import musing_bose as musing_bose1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.hopeful_spence import goofy_bose as goofy_bose1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.hopeful_spence import agitated_hopper as agitated_hopper1

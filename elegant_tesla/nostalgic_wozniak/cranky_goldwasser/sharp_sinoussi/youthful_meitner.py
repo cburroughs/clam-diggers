@@ -11,4 +11,4 @@ from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as u
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import stupefied_kirch as stupefied_kirch1
-import nervous_visvesvaraya as nervous_visvesvaraya1
+from acoustic_whale import nervous_visvesvaraya as nervous_visvesvaraya1

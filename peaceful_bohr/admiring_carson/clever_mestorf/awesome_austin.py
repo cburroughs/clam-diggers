@@ -18,7 +18,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sl
 from peaceful_bohr.admiring_carson import adoring_neumann as adoring_neumann1
 from elegant_tesla.clever_mestorf import zen_pike as zen_pike3
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.zen_pike import lucid_hermann as lucid_hermann1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
@@ -28,7 +28,7 @@ from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from peaceful_bohr.brave_dubinsky import wizardly_wescoff as wizardly_wescoff1
 from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_feynman1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike4
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from peaceful_bohr.admiring_carson import upbeat_williams as upbeat_williams1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie3
 from elegant_tesla.zen_pike.optimistic_hawking import sleepy_euclid as sleepy_euclid2

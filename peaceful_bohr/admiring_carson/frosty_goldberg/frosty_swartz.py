@@ -13,7 +13,7 @@ from elegant_tesla.reverent_goldwasser import stupefied_heisenberg as stupefied_
 from elegant_tesla.frosty_goldberg import optimistic_mccarthy as optimistic_mccarthy1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
 from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.zen_pike import hardcore_stonebraker as hardcore_stonebraker1
@@ -33,7 +33,7 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra2
 from elegant_tesla.trusting_banach import xenodochial_lamarr as xenodochial_lamarr1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import pedantic_mclean as pedantic_mclean1
+from acoustic_whale import pedantic_mclean as pedantic_mclean1
 from elegant_tesla.trusting_banach import laughing_brattain as laughing_brattain1
 from peaceful_bohr.admiring_carson import sharp_lamport as sharp_lamport1
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1

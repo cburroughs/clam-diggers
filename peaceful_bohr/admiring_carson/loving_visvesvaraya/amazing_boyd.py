@@ -4,4 +4,4 @@ from elegant_tesla.cranky_goldwasser.awesome_noyce import suspicious_fermat as s
 from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1
 from elegant_tesla.zen_pike import admiring_knuth as admiring_knuth1
 from elegant_tesla.cranky_goldwasser.awesome_noyce import stoic_pike as stoic_pike1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

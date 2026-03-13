@@ -2,7 +2,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspic
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import optimistic_hawking as optimistic_hawking1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import trusting_brattain as trusting_brattain1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1

@@ -1,1 +1,1 @@
-import focused_liskov as focused_liskov1
+from acoustic_whale import focused_liskov as focused_liskov1

@@ -1,7 +1,7 @@
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from peaceful_bohr.zen_pike import laughing_jackson as laughing_jackson1
 from peaceful_bohr.zen_pike import vibrant_northcutt as vibrant_northcutt1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1

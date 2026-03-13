@@ -12,5 +12,5 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.cranky_goldwasser.competent_benz import stoic_northcutt as stoic_northcutt1
 from elegant_tesla.cranky_goldwasser.competent_benz import objective_tesla as objective_tesla1
 from elegant_tesla.zen_pike import elegant_darwin as elegant_darwin1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.cranky_goldwasser.competent_benz.festive_mirzakhani import sharp_leakey as sharp_leakey1

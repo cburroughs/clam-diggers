@@ -1,1 +1,1 @@
-import youthful_sammet as youthful_sammet1
+from acoustic_whale import youthful_sammet as youthful_sammet1

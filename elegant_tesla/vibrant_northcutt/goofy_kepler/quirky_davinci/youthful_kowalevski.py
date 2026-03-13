@@ -1,12 +1,12 @@
 from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_gates as elastic_gates1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import xenodochial_brattain as xenodochial_brattain1
 from stupefied_gates import heuristic_galileo as heuristic_galileo1
 from elegant_tesla.boring_boyd import amazing_yalow as amazing_yalow1
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import heuristic_hopper as heuristic_hopper1

@@ -6,5 +6,5 @@ from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystif
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.loving_bohr import happy_leakey as happy_leakey1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import vigilant_newton as vigilant_newton1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.loving_bohr.gallant_lumiere import priceless_leakey as priceless_leakey1

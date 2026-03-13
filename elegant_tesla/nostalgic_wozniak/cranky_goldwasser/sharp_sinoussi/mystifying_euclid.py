@@ -1,7 +1,7 @@
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import fervent_panini as fervent_panini1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import focused_raman as focused_raman1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import mystifying_euclid as mystifying_euclid1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1

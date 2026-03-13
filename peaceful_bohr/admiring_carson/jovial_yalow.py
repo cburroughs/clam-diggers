@@ -12,4 +12,4 @@ from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.admiring_carson import sharp_lamport as sharp_lamport1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

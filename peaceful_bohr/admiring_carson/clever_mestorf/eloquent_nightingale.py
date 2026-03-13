@@ -4,7 +4,7 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspic
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import jolly_volhard as jolly_volhard1
 from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2

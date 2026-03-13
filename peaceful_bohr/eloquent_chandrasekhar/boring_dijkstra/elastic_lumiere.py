@@ -10,7 +10,7 @@ from peaceful_bohr.friendly_lalande import nervous_beaver as nervous_beaver1
 from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northcutt1
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
 from peaceful_bohr.brave_dubinsky import zealous_bell as zealous_bell1
 from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_mirzakhani1

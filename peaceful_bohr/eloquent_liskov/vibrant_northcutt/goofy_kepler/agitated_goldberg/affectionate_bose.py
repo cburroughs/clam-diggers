@@ -8,7 +8,7 @@ from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as wizardly_jepsen2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import determined_ptolemy as determined_ptolemy1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import loving_feynman as loving_feynman1
 from elegant_tesla.boring_dijkstra import optimistic_poitras as optimistic_poitras1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import determined_ptolemy as determined_ptolemy2

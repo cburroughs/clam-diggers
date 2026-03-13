@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.clever_mestorf.agitated_goldberg import youthful_wescoff as youthful_wescoff1
 from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
@@ -19,7 +19,7 @@ from elegant_tesla.boring_boyd import wizardly_kirch as wizardly_kirch1
 from elegant_tesla.zen_pike import pensive_mcnulty as pensive_mcnulty1
 from elegant_tesla.zen_pike.optimistic_hawking import loving_pare as loving_pare1
 from elegant_tesla.zen_pike.optimistic_hawking import unruffled_knuth as unruffled_knuth1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.clever_mestorf import suspicious_saha as suspicious_saha1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
@@ -46,7 +46,7 @@ from elegant_tesla.clever_mestorf import kind_bartik as kind_bartik1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.zen_pike import frosty_hugle as frosty_hugle1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.clever_mestorf.agitated_goldberg import confident_shockley as confident_shockley1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.zen_pike import trusting_nobel as trusting_nobel1

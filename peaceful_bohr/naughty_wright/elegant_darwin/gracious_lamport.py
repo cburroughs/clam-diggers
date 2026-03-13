@@ -6,6 +6,6 @@ from peaceful_bohr.zen_pike.musing_fermi import determined_kepler as determined_
 from peaceful_bohr.naughty_wright.elegant_darwin import zen_pike as zen_pike1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.friendly_lalande import quizzical_mcclintock as quizzical_mcclintock1
 from peaceful_bohr.zen_pike.musing_fermi import vigorous_goldwasser as vigorous_goldwasser1

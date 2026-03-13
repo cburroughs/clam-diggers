@@ -7,4 +7,4 @@ from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_mei
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.zen_pike.optimistic_hawking import stupefied_kirch as stupefied_kirch1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

@@ -1,4 +1,4 @@
-import sleepy_shannon as sleepy_shannon1
+from acoustic_whale import sleepy_shannon as sleepy_shannon1
 from elegant_tesla.boring_boyd import wizardly_kirch as wizardly_kirch1
 from elegant_tesla.reverent_goldwasser.goofy_kepler import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1

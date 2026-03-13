@@ -13,7 +13,7 @@ from peaceful_bohr import awesome_bose as awesome_bose1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.reverent_nightingale import sleepy_pike as sleepy_pike1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1

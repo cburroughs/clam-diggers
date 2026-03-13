@@ -12,7 +12,7 @@ from elegant_tesla.boring_dijkstra import trusting_ritchie as trusting_ritchie1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.frosty_goldberg import musing_raman as musing_raman1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.admiring_carson.frosty_goldberg import zen_curie as zen_curie2
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from peaceful_bohr.admiring_carson.frosty_goldberg import zen_pike as zen_pike2

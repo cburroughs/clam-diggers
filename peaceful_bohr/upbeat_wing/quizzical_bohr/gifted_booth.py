@@ -14,8 +14,8 @@ from elegant_tesla.heuristic_babbage import eloquent_davinci as eloquent_davinci
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from peaceful_bohr.upbeat_wing import focused_mirzakhani as focused_mirzakhani1
-import trusting_leakey as trusting_leakey1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import trusting_leakey as trusting_leakey1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
 from elegant_tesla.heuristic_babbage import kind_dijkstra as kind_dijkstra1

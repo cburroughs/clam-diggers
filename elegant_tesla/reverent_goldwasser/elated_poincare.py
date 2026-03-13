@@ -1,4 +1,4 @@
-import frosty_saha as frosty_saha1
+from acoustic_whale import frosty_saha as frosty_saha1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.awesome_morse import zealous_noyce as zealous_noyce1
 from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1

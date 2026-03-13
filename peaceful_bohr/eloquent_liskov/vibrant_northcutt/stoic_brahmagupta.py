@@ -1,5 +1,5 @@
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani1
-import pedantic_mclean as pedantic_mclean1
+from acoustic_whale import pedantic_mclean as pedantic_mclean1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from stupefied_gates import jovial_benz as jovial_benz1

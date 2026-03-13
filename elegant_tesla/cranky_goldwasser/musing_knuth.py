@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from stupefied_gates import optimistic_einstein as optimistic_einstein1
 from elegant_tesla.zen_pike import elastic_boyd as elastic_boyd1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
@@ -15,10 +15,10 @@ from elegant_tesla.cranky_goldwasser import zen_pike as zen_pike2
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.zen_pike import lucid_hermann as lucid_hermann1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley2
 from elegant_tesla.reverent_goldwasser.goofy_kepler import dreamy_mayer as dreamy_mayer2
-import vibrant_volhard as vibrant_volhard1
+from acoustic_whale import vibrant_volhard as vibrant_volhard1
 from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer3

@@ -7,4 +7,4 @@ from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking a
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
 from elegant_tesla.boring_boyd.agitated_goldberg import zen_curie as zen_curie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

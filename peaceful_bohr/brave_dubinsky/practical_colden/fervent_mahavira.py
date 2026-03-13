@@ -6,5 +6,5 @@ from elegant_tesla.vibrant_northcutt.practical_colden import relaxed_bhaskara as
 from elegant_tesla.vibrant_northcutt.practical_colden import elastic_gates as elastic_gates1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.vibrant_northcutt.practical_colden import practical_colden as practical_colden1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.brave_dubinsky.practical_colden import eager_almeida as eager_almeida1

@@ -53,7 +53,7 @@ from elegant_tesla.cranky_goldwasser import determined_darwin as determined_darw
 from elegant_tesla.cranky_goldwasser import zen_brattain as zen_brattain1
 from elegant_tesla.zen_pike import sad_tesla as sad_tesla1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams2
 from elegant_tesla.zen_pike.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

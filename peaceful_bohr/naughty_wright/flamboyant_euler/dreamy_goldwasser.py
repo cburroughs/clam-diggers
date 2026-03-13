@@ -17,6 +17,6 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as el
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.reverent_goldwasser import sleepy_ramanujan as sleepy_ramanujan1
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr.zen_pike import loving_varahamihira as loving_varahamihira1

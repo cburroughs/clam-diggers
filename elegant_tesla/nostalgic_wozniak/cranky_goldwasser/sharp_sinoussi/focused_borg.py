@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import frosty_goldberg as frosty_goldberg1
 from elegant_tesla.zen_pike.optimistic_hawking import frosty_goldberg as frosty_goldberg2

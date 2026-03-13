@@ -11,4 +11,4 @@ from elegant_tesla.boring_boyd.stupefied_kirch import goofy_jepsen as goofy_jeps
 from elegant_tesla.mystifying_euclid.clever_raman import gifted_allen as gifted_allen1
 from elegant_tesla.mystifying_euclid.clever_raman import thirsty_meninsky as thirsty_meninsky1
 from elegant_tesla.mystifying_euclid.clever_raman import optimistic_hawking as optimistic_hawking1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

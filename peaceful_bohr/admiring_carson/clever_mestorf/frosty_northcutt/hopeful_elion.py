@@ -7,7 +7,7 @@ from peaceful_bohr.admiring_carson import zen_curie as zen_curie1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.admiring_carson.clever_mestorf import romantic_bose as romantic_bose1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_blackwell as mystifying_blackwell1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2

@@ -6,5 +6,5 @@ from peaceful_bohr.eloquent_liskov.loving_visvesvaraya.brave_dubinsky import mys
 from peaceful_bohr.eloquent_liskov.loving_visvesvaraya.brave_dubinsky import boring_brahmagupta as boring_brahmagupta1
 from peaceful_bohr.eloquent_liskov.loving_visvesvaraya.brave_dubinsky import xenodochial_mestorf as xenodochial_mestorf1
 from peaceful_bohr.eloquent_liskov.loving_visvesvaraya.brave_dubinsky import laughing_euler as laughing_euler1
-import vigorous_thompson as vigorous_thompson1
-import confident_swirles as confident_swirles1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import confident_swirles as confident_swirles1

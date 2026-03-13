@@ -9,7 +9,7 @@ from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.zen_pike.optimistic_hawking import youthful_booth as youthful_booth1
-import zen_panini as zen_panini1
+from acoustic_whale import zen_panini as zen_panini1
 from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
 from elegant_tesla.boring_boyd import elated_darwin as elated_darwin1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1

@@ -1,2 +1,2 @@
 from loving_visvesvaraya.zen_pike import upbeat_swirles as upbeat_swirles1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

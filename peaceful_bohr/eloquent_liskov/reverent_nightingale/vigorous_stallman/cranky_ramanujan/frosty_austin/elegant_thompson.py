@@ -7,5 +7,5 @@ from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan impor
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.heuristic_babbage.hopeful_swartz import lucid_pike as lucid_pike1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import suspicious_shirley as suspicious_shirley1

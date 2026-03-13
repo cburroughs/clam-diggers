@@ -9,4 +9,4 @@ from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as yout
 from elegant_tesla.boring_dijkstra import dreamy_mayer as dreamy_mayer1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

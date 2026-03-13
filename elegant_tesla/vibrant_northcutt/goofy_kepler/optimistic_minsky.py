@@ -1,7 +1,7 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
-import cranky_swanson as cranky_swanson1
+from acoustic_whale import cranky_swanson as cranky_swanson1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra import quizzical_shaw as quizzical_shaw1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1

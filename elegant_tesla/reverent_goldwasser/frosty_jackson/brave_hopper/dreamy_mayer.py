@@ -3,7 +3,7 @@ from elegant_tesla.reverent_goldwasser.frosty_jackson.brave_hopper import wizard
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
 from elegant_tesla.reverent_goldwasser.frosty_jackson import frosty_visvesvaraya as frosty_visvesvaraya1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_bell as vibrant_bell1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.zen_pike.optimistic_hawking import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.boring_dijkstra import hungry_poitras as hungry_poitras1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dreamy_mayer as dreamy_mayer1

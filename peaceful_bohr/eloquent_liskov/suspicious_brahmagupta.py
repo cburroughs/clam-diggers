@@ -1,1 +1,1 @@
-import stoic_poitras as stoic_poitras1
+from acoustic_whale import stoic_poitras as stoic_poitras1

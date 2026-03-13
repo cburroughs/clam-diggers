@@ -1,9 +1,9 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.zen_pike import elastic_boyd as elastic_boyd1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
-import cranky_swanson as cranky_swanson1
+from acoustic_whale import cranky_swanson as cranky_swanson1
 from elegant_tesla.zen_pike import focused_bhaskara as focused_bhaskara1
 from elegant_tesla.zen_pike import blissful_bose as blissful_bose1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley2

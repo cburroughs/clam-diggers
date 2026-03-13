@@ -9,14 +9,14 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sl
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimistic_hawking as optimistic_hawking1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import hopeful_ritchie as hopeful_ritchie1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import boring_heisenberg as boring_heisenberg1
 from elegant_tesla.boring_dijkstra.musing_fermi import optimistic_hawking as optimistic_hawking2
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import determined_ptolemy as determined_ptolemy1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike1
-import objective_mahavira as objective_mahavira1
+from acoustic_whale import objective_mahavira as objective_mahavira1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import musing_fermi as musing_fermi1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1

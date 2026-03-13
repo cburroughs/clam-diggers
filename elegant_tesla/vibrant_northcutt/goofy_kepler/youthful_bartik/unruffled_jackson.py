@@ -1,7 +1,7 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import youthful_bartik as youthful_bartik1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_hoover as clever_hoover1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik2
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

@@ -5,7 +5,7 @@ from elegant_tesla.reverent_nightingale.pensive_montalcini import eloquent_yonat
 from elegant_tesla.reverent_nightingale.pensive_montalcini import wonderful_swirles as wonderful_swirles1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
 from stupefied_gates import jovial_benz as jovial_benz1
-import loving_jepsen as loving_jepsen1
+from acoustic_whale import loving_jepsen as loving_jepsen1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.modest_hypatia import zen_pike as zen_pike1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

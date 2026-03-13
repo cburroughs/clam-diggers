@@ -1,6 +1,6 @@
 from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_gates as elastic_gates1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import ecstatic_tesla as ecstatic_tesla1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from stupefied_gates import infallible_banach as infallible_banach1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
@@ -35,9 +35,9 @@ from elegant_tesla.boring_dijkstra.musing_fermi import optimistic_hawking as opt
 from elegant_tesla.boring_boyd import zen_pike as zen_pike3
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import romantic_ride as romantic_ride1
-import silly_panini as silly_panini1
+from acoustic_whale import silly_panini as silly_panini1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import vibrant_noether as vibrant_noether1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import trusting_brattain as trusting_brattain1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import gallant_booth as gallant_booth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1

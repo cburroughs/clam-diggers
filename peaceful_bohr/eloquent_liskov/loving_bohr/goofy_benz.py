@@ -12,7 +12,7 @@ from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
 from peaceful_bohr.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import heuristic_babbage as heuristic_babbage1
 from peaceful_bohr.zen_pike import youthful_booth as youthful_booth1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.loving_bohr import friendly_wiles as friendly_wiles1
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import festive_knuth as festive_knuth1

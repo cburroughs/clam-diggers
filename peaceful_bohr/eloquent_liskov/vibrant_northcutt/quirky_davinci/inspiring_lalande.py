@@ -5,6 +5,6 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import youthful
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import cranky_goldberg as cranky_goldberg1
 from peaceful_bohr import priceless_carson as priceless_carson1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import xenodochial_brattain as xenodochial_brattain1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from stupefied_gates import heuristic_galileo as heuristic_galileo1

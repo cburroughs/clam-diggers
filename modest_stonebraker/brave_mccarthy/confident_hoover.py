@@ -11,4 +11,4 @@ from modest_stonebraker.brave_mccarthy import vigilant_khorana as vigilant_khora
 from modest_stonebraker.brave_mccarthy import romantic_payne as romantic_payne1
 from modest_stonebraker.brave_mccarthy import determined_ptolemy as determined_ptolemy1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

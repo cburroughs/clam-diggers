@@ -8,7 +8,7 @@ from peaceful_bohr.friendly_lalande import nervous_beaver as nervous_beaver1
 from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northcutt1
 from peaceful_bohr.brave_dubinsky import stoic_stallman as stoic_stallman1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
 from peaceful_bohr.brave_dubinsky import zealous_bell as zealous_bell1
 from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_mirzakhani1
@@ -23,7 +23,7 @@ from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
 from peaceful_bohr.brave_dubinsky import zen_murdock as zen_murdock1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from elegant_tesla.reverent_nightingale import mystifying_liskov as mystifying_liskov1
 from elegant_tesla.reverent_nightingale import frosty_neumann as frosty_neumann1
 from elegant_tesla.reverent_goldwasser.youthful_bartik import thirsty_ardinghelli as thirsty_ardinghelli1

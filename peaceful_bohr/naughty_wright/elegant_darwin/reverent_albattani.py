@@ -12,6 +12,6 @@ from peaceful_bohr.zen_pike import mystifying_euclid as mystifying_euclid1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimistic_hawking as optimistic_hawking1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import boring_heisenberg as boring_heisenberg1

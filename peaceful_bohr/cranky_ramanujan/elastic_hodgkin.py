@@ -10,5 +10,5 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
 from peaceful_bohr.brave_dubinsky import loving_snyder as loving_snyder1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1

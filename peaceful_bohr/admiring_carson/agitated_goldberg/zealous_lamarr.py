@@ -13,6 +13,6 @@ from elegant_tesla.boring_dijkstra.agitated_goldberg import determined_ptolemy a
 from elegant_tesla.boring_dijkstra.agitated_goldberg import quirky_cori as quirky_cori1
 from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as youthful_wescoff1
 from peaceful_bohr import zen_curie as zen_curie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1

@@ -20,7 +20,7 @@ from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_f
 from elegant_tesla.zen_pike import adoring_knuth as adoring_knuth1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.zen_pike.optimistic_hawking.elegant_bose import angry_mcnulty as angry_mcnulty1
 from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

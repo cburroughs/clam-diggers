@@ -1,5 +1,5 @@
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
-import dreamy_tesla as dreamy_tesla1
+from acoustic_whale import dreamy_tesla as dreamy_tesla1
 from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1
-import competent_bell as competent_bell1
+from acoustic_whale import competent_bell as competent_bell1

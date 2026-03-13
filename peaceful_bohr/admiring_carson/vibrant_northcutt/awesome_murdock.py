@@ -9,4 +9,4 @@ from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bose1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
-import objective_clarke as objective_clarke1
+from acoustic_whale import objective_clarke as objective_clarke1

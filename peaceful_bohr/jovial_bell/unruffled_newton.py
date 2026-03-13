@@ -1,2 +1,2 @@
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1

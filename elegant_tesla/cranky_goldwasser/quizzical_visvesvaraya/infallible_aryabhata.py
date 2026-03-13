@@ -2,7 +2,7 @@ from elegant_tesla.cranky_goldwasser.hopeful_feynman import brave_mcnulty as bra
 from stupefied_gates import infallible_banach as infallible_banach1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
 from elegant_tesla.cranky_goldwasser.quizzical_visvesvaraya import goofy_bose as goofy_bose1
-import youthful_kirch as youthful_kirch1
+from acoustic_whale import youthful_kirch as youthful_kirch1
 from elegant_tesla.heuristic_babbage.infallible_aryabhata import lucid_pike as lucid_pike1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1

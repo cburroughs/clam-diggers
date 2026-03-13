@@ -9,12 +9,12 @@ from elegant_tesla.boring_dijkstra import sharp_stallman as sharp_stallman1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as wizardly_jepsen1
 from elegant_tesla.clever_mestorf.agitated_goldberg import elegant_pare as elegant_pare1
-import serene_stallman as serene_stallman1
+from acoustic_whale import serene_stallman as serene_stallman1
 from elegant_tesla.clever_mestorf import goofy_bose as goofy_bose1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.clever_mestorf import festive_hodgkin as festive_hodgkin2
-import naughty_nightingale as naughty_nightingale1
+from acoustic_whale import naughty_nightingale as naughty_nightingale1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_feynman1
 from elegant_tesla.boring_boyd.agitated_goldberg import festive_hodgkin as festive_hodgkin3

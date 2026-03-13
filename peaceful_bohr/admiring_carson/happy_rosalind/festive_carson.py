@@ -143,7 +143,7 @@ from distracted_raman.gallant_austin import kind_ardinghelli as kind_ardinghelli
 from distracted_raman.gallant_austin import jovial_lumiere as jovial_lumiere1
 from distracted_raman.gallant_austin import flamboyant_jang as flamboyant_jang1
 from distracted_raman.gallant_austin import epic_feynman as epic_feynman1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from distracted_raman.gallant_austin import lucid_poitras as lucid_poitras1
 from distracted_raman.gallant_austin import amazing_wescoff as amazing_wescoff1
 from distracted_raman.gallant_austin import eloquent_bhaskara as eloquent_bhaskara1

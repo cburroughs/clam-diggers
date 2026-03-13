@@ -1,4 +1,4 @@
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser import zen_pike as zen_pike1
 from stupefied_gates import nervous_fermat as nervous_fermat1

@@ -9,4 +9,4 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from peaceful_bohr.brave_dubinsky import objective_aryabhata as objective_aryabhata1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_mayer as clever_mayer1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

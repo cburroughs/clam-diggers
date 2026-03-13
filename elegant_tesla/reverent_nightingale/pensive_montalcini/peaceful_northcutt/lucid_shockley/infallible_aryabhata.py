@@ -3,4 +3,4 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import h
 from elegant_tesla.reverent_nightingale.pensive_montalcini.peaceful_northcutt.lucid_shockley import goofy_bose as goofy_bose1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.reverent_nightingale.pensive_montalcini import infallible_aryabhata as infallible_aryabhata1
-import angry_haibt as angry_haibt1
+from acoustic_whale import angry_haibt as angry_haibt1

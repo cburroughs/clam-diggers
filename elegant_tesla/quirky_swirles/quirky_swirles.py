@@ -1,15 +1,15 @@
 from elegant_tesla.quirky_swirles import inspiring_feynman as inspiring_feynman1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.quirky_swirles import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.quirky_swirles import priceless_austin as priceless_austin1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.quirky_swirles.cranky_hamilton import condescending_euler as condescending_euler1
 from elegant_tesla.quirky_swirles import elegant_newton as elegant_newton1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin2
 from stupefied_gates import jovial_benz as jovial_benz1
 from elegant_tesla.quirky_swirles import determined_tesla as determined_tesla1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.quirky_swirles import zen_pike as zen_pike2
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.quirky_swirles import inspiring_franklin as inspiring_franklin1

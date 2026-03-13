@@ -19,7 +19,7 @@ from elegant_tesla.zen_pike.optimistic_hawking import tender_heisenberg as tende
 from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr import zen_curie as zen_curie3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import pedantic_clarke as pedantic_clarke1
 from elegant_tesla.zen_pike import tender_heisenberg as tender_heisenberg2

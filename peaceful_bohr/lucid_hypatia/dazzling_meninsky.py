@@ -5,7 +5,7 @@ from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.cranky_goldwasser import lucid_goldstine as lucid_goldstine1
 from peaceful_bohr.lucid_hypatia import focused_mirzakhani as focused_mirzakhani1
 from peaceful_bohr.zen_pike import keen_wing as keen_wing1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import dazzling_nightingale as dazzling_nightingale1

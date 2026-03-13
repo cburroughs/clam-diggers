@@ -13,4 +13,4 @@ from peaceful_bohr.zen_pike import happy_wescoff as happy_wescoff1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import serene_newton as serene_newton1
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.zen_pike import cocky_cray as cocky_cray1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

@@ -7,6 +7,6 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import zen
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import mystifying_euclid as mystifying_euclid1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import eloquent_northcutt as eloquent_northcutt1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

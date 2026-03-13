@@ -6,9 +6,9 @@ from elegant_tesla.mystifying_euclid.quirky_davinci import blissful_goldberg as 
 from peaceful_bohr.jovial_bell import cranky_raman as cranky_raman1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd import amazing_yalow as amazing_yalow1
-import relaxed_northcutt as relaxed_northcutt1
+from acoustic_whale import relaxed_northcutt as relaxed_northcutt1
 from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintock1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr import zen_curie as zen_curie2
 from peaceful_bohr.zen_pike import quirky_davinci as quirky_davinci1

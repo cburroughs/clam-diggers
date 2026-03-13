@@ -3,4 +3,4 @@ from elegant_tesla.jovial_elion import mystifying_goldwasser as mystifying_goldw
 from elegant_tesla.boring_dijkstra import jovial_elion as jovial_elion1
 from elegant_tesla.jovial_elion import serene_borg as serene_borg1
 from elegant_tesla.jovial_elion import determined_ptolemy as determined_ptolemy1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

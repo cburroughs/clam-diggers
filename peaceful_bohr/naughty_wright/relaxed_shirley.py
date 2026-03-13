@@ -19,9 +19,9 @@ from elegant_tesla.reverent_goldwasser.goofy_kepler import frosty_mcclintock as 
 from peaceful_bohr.zen_pike import zen_bohr as zen_bohr1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
 from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley2
-import cranky_swanson as cranky_swanson1
+from acoustic_whale import cranky_swanson as cranky_swanson1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintock1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

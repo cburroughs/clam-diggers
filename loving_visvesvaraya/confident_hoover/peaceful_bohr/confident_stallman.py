@@ -10,5 +10,5 @@ from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby a
 from loving_visvesvaraya.confident_hoover.kind_morse.priceless_elion import priceless_elion as priceless_elion1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import gallant_bartik as gallant_bartik1
 from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from loving_visvesvaraya.confident_hoover.boring_dijkstra import tender_golick as tender_golick1

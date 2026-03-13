@@ -1,6 +1,6 @@
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import admiring_knuth as admiring_knuth1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.zen_pike import inspiring_swirles as inspiring_swirles1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

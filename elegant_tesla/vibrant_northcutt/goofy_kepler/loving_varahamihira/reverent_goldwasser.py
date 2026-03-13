@@ -10,6 +10,6 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import zen_curie as zen_curie1
-import cocky_pike as cocky_pike1
+from acoustic_whale import cocky_pike as cocky_pike1
 from elegant_tesla.boring_boyd.zealous_kowalevski import vigorous_albattani as vigorous_albattani1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import boring_dijkstra as boring_dijkstra1

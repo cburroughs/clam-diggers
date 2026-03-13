@@ -15,4 +15,4 @@ from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import stupefied_kirch as stupefied_kirch2
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

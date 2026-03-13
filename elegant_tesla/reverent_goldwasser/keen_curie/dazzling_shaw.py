@@ -7,5 +7,5 @@ from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_m
 from stupefied_gates import tender_noether as tender_noether1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
-import wonderful_ptolemy as wonderful_ptolemy1
+from acoustic_whale import wonderful_ptolemy as wonderful_ptolemy1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

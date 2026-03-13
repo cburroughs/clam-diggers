@@ -3,6 +3,6 @@ from elegant_tesla.boring_dijkstra.festive_hopper import mystifying_volhard as m
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.zen_pike.optimistic_hawking import festive_hopper as festive_hopper1
 from stupefied_gates import nervous_fermat as nervous_fermat1
-import vigorous_kepler as vigorous_kepler1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_kepler as vigorous_kepler1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

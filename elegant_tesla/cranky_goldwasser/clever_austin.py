@@ -13,4 +13,4 @@ from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.reverent_goldwasser import stupefied_heisenberg as stupefied_heisenberg1
 from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

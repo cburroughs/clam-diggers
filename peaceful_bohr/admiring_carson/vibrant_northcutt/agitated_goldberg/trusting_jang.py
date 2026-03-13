@@ -13,5 +13,5 @@ from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani a
 from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.boring_dijkstra import dreamy_mayer as dreamy_mayer1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import loving_feynman as loving_feynman1

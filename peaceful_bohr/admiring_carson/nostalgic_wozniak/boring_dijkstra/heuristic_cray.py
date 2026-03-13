@@ -9,7 +9,7 @@ from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani a
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as unruffled_knuth1

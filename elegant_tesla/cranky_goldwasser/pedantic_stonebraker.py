@@ -1,6 +1,6 @@
 from elegant_tesla.cranky_goldwasser import confident_dijkstra as confident_dijkstra1
 from elegant_tesla.cranky_goldwasser import elastic_gates as elastic_gates1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.zen_pike import relaxed_bhaskara as relaxed_bhaskara1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
@@ -64,10 +64,10 @@ from elegant_tesla.zen_pike import naughty_turing as naughty_turing1
 from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
 from elegant_tesla.zen_pike import sad_tesla as sad_tesla1
 from elegant_tesla.zen_pike import angry_shirley as angry_shirley1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import brave_johnson as brave_johnson1
-import zen_panini as zen_panini1
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import zen_panini as zen_panini1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.boring_dijkstra.awesome_morse import elated_poincare as elated_poincare2
 from elegant_tesla.zen_pike import suspicious_lamport as suspicious_lamport1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1

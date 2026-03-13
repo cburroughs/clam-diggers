@@ -6,7 +6,7 @@ from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
 from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from peaceful_bohr.cranky_mahavira import relaxed_bhaskara as relaxed_bhaskara1
 from peaceful_bohr.zen_pike.agitated_goldberg import hopeful_booth as hopeful_booth1

@@ -1,4 +1,4 @@
-import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import upbeat_newton as upbeat_newton1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import laughing_feynman as laughing_feynman1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.goofy_kilby import confident_hoover as confident_hoover1

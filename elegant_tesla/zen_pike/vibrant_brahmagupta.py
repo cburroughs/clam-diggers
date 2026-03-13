@@ -1,2 +1,2 @@
 from stupefied_gates import nervous_fermat as nervous_fermat1
-import vigorous_kepler as vigorous_kepler1
+from acoustic_whale import vigorous_kepler as vigorous_kepler1

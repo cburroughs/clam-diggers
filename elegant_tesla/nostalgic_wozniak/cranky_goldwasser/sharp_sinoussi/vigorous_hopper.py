@@ -7,4 +7,4 @@ from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as u
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

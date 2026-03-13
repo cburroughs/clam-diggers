@@ -1,6 +1,6 @@
 from elegant_tesla.zen_pike import unruffled_clarke as unruffled_clarke1
 from elegant_tesla.zen_pike.optimistic_hawking import eloquent_neumann as eloquent_neumann1
-import frosty_saha as frosty_saha1
+from acoustic_whale import frosty_saha as frosty_saha1
 from elegant_tesla.zen_pike import stoic_wescoff as stoic_wescoff1
 from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1

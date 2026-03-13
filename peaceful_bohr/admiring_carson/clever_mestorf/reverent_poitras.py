@@ -1,4 +1,4 @@
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.reverent_goldwasser.frosty_jackson import hungry_borg as hungry_borg1
@@ -16,15 +16,15 @@ from elegant_tesla.zen_pike import frosty_mccarthy as frosty_mccarthy1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.clever_mestorf import suspicious_bose as suspicious_bose1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from peaceful_bohr.brave_dubinsky import frosty_goldberg as frosty_goldberg2
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from peaceful_bohr.admiring_carson import upbeat_williams as upbeat_williams1
-import lucid_jackson as lucid_jackson1
+from acoustic_whale import lucid_jackson as lucid_jackson1
 from elegant_tesla.zen_pike.optimistic_hawking import loving_pare as loving_pare1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import zealous_varahamihira as zealous_varahamihira1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie3
@@ -34,7 +34,7 @@ from peaceful_bohr.admiring_carson.clever_mestorf import eloquent_nightingale as
 from peaceful_bohr.admiring_carson.clever_mestorf import zen_curie as zen_curie4
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.clever_mestorf import clever_mestorf as clever_mestorf1
 from peaceful_bohr.admiring_carson.clever_mestorf import romantic_bose as romantic_bose1

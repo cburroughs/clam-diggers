@@ -2,7 +2,7 @@ from elegant_tesla.boring_boyd.clever_raman import elastic_blackwell as elastic_
 from elegant_tesla.boring_boyd.stupefied_kirch import nervous_hypatia as nervous_hypatia1
 from elegant_tesla.boring_boyd.clever_raman import determined_ptolemy as determined_ptolemy1
 from elegant_tesla.boring_boyd.stupefied_kirch import serene_colden as serene_colden1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.boring_boyd.clever_raman import serene_mahavira as serene_mahavira1
 from elegant_tesla.boring_boyd.clever_raman import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd.clever_raman import jovial_lalande as jovial_lalande1

@@ -1,5 +1,5 @@
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
-from peaceful_bhabha.friendly_lalande import youthful_volhard as youthful_volhard1
+from acoustic_whale.peaceful_bhabha.friendly_lalande import youthful_volhard as youthful_volhard1
 from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import silly_goodall as silly_goodall1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.silly_goodall import focused_mirzakhani as focused_mirzakhani2

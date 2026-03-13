@@ -16,7 +16,7 @@ from elegant_tesla.frosty_goldberg import zealous_bohr as zealous_bohr1
 from peaceful_bohr.zen_pike import hardcore_newton as hardcore_newton1
 from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
 from peaceful_bohr.admiring_carson import upbeat_williams as upbeat_williams1
@@ -26,9 +26,9 @@ from elegant_tesla.boring_boyd import zen_curie as zen_curie3
 from peaceful_bohr.admiring_carson import boring_meninsky as boring_meninsky1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser1
 from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams2
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from elegant_tesla.zen_pike.optimistic_hawking import keen_wing as keen_wing1

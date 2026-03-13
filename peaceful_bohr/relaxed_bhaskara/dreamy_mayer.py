@@ -6,7 +6,7 @@ from peaceful_bohr.brave_dubinsky import pedantic_mcnulty as pedantic_mcnulty1
 from elegant_tesla.youthful_booth import boring_dijkstra as boring_dijkstra1
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.relaxed_bhaskara import keen_beaver as keen_beaver1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.relaxed_bhaskara import focused_bardeen as focused_bardeen1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1
 from elegant_tesla.boring_boyd import pedantic_kilby as pedantic_kilby1

@@ -1,5 +1,5 @@
-import fervent_neumann as fervent_neumann1
-import stoic_keller as stoic_keller1
+from acoustic_whale import fervent_neumann as fervent_neumann1
+from acoustic_whale import stoic_keller as stoic_keller1
 from elegant_tesla.zen_pike import modest_yalow as modest_yalow1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import vibrant_bell as vibrant_bell1

@@ -8,7 +8,7 @@ from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_m
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
 from elegant_tesla.reverent_nightingale.determined_ptolemy.nervous_bell.eager_tesla import hungry_mahavira as hungry_mahavira3
 from elegant_tesla.reverent_nightingale.determined_ptolemy.loving_visvesvaraya.eager_tesla import hungry_mahavira as hungry_mahavira4
-import reverent_goldwasser as reverent_goldwasser1
+from acoustic_whale import reverent_goldwasser as reverent_goldwasser1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
 from elegant_tesla.zen_pike.awesome_morse import hungry_mahavira as hungry_mahavira5
 from elegant_tesla.reverent_nightingale.determined_ptolemy import determined_murdock as determined_murdock1

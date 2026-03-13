@@ -10,5 +10,5 @@ from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import priceless
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.zen_pike.optimistic_hawking import wizardly_volhard as wizardly_volhard1
 from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.zen_pike import confident_panini as confident_panini1

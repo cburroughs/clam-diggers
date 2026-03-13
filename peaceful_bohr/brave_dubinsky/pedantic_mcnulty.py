@@ -14,6 +14,6 @@ from elegant_tesla.zen_pike.optimistic_hawking import keen_wing as keen_wing1
 from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.dreamy_mayer import musing_lalande as musing_lalande1
 from peaceful_bohr import zen_curie as zen_curie1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

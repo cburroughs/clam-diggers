@@ -1,7 +1,7 @@
 from stupefied_gates import infallible_banach as infallible_banach1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.reverent_goldwasser import lucid_easley as lucid_easley1
-import eager_goldstine as eager_goldstine1
+from acoustic_whale import eager_goldstine as eager_goldstine1
 from stupefied_gates import frosty_curran as frosty_curran1
 from elegant_tesla.zen_pike import upbeat_goodall as upbeat_goodall1
 from elegant_tesla.zen_pike import reverent_visvesvaraya as reverent_visvesvaraya1

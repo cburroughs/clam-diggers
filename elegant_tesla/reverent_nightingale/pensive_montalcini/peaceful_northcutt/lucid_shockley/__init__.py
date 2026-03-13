@@ -2,7 +2,7 @@ from elegant_tesla.zen_pike.cocky_goldstine import compassionate_visvesvaraya as
 from elegant_tesla.reverent_nightingale.pensive_montalcini.peaceful_northcutt.lucid_shockley import agitated_hoover as agitated_hoover1
 from elegant_tesla.zen_pike import competent_jennings as competent_jennings1
 from elegant_tesla.reverent_nightingale.pensive_montalcini.peaceful_northcutt.lucid_shockley import infallible_aryabhata as infallible_aryabhata1
-import eloquent_morse as eloquent_morse1
+from acoustic_whale import eloquent_morse as eloquent_morse1
 from elegant_tesla.reverent_nightingale.pensive_montalcini.peaceful_northcutt.lucid_shockley import goofy_bose as goofy_bose1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from elegant_tesla.reverent_nightingale.pensive_montalcini.peaceful_northcutt.lucid_shockley import dazzling_shaw as dazzling_shaw1

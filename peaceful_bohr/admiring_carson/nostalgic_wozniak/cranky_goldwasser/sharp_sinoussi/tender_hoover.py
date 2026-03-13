@@ -16,8 +16,8 @@ from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.sharp_sin
 from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as wizardly_jepsen1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import unruffled_shannon as unruffled_shannon1
+from acoustic_whale import unruffled_shannon as unruffled_shannon1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.agitated_goldberg import sad_edison as sad_edison1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1

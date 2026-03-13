@@ -7,4 +7,4 @@ from elegant_tesla.boring_dijkstra.optimistic_hawking import festive_hopper as f
 from peaceful_bohr import zen_curie as zen_curie1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
-import sad_thompson as sad_thompson1
+from acoustic_whale import sad_thompson as sad_thompson1

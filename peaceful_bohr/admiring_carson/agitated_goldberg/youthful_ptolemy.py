@@ -13,6 +13,6 @@ from elegant_tesla.clever_mestorf.agitated_goldberg import festive_hypatia as fe
 from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
 from peaceful_bohr import zen_curie as zen_curie1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
 from elegant_tesla.boring_dijkstra.agitated_goldberg import xenodochial_noether as xenodochial_noether1

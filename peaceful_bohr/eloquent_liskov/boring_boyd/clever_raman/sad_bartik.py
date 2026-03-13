@@ -5,6 +5,6 @@ from elegant_tesla.boring_boyd.clever_raman import vigorous_kirch as vigorous_ki
 from peaceful_bohr import zen_curie as zen_curie2
 from elegant_tesla.boring_boyd.clever_raman import jovial_wiles as jovial_wiles1
 from elegant_tesla.boring_boyd.clever_raman import vigorous_albattani as vigorous_albattani1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from peaceful_bohr.eloquent_liskov.boring_boyd.clever_raman import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_boyd.clever_raman import vigilant_shaw as vigilant_shaw1

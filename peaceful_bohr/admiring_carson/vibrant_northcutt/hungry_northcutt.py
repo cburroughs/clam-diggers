@@ -12,6 +12,6 @@ from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani a
 from peaceful_bohr.zen_pike import vibrant_northcutt as vibrant_northcutt1
 from elegant_tesla.vibrant_northcutt.amazing_hoover import kind_engelbart as kind_engelbart1
 from elegant_tesla.vibrant_northcutt import quizzical_heyrovsky as quizzical_heyrovsky1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.vibrant_northcutt import eager_lamport as eager_lamport1
 from peaceful_bohr.friendly_lalande import hopeful_beaver as hopeful_beaver1

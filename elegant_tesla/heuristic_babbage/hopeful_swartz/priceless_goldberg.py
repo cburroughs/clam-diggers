@@ -2,7 +2,7 @@ from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.heuristic_babbage import thirsty_kalam as thirsty_kalam1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from elegant_tesla.heuristic_babbage.hopeful_swartz import peaceful_chandrasekhar as peaceful_chandrasekhar1
-import hungry_mirzakhani as hungry_mirzakhani1
+from acoustic_whale import hungry_mirzakhani as hungry_mirzakhani1
 from elegant_tesla.heuristic_babbage.hopeful_swartz import priceless_austin as priceless_austin1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
 from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1

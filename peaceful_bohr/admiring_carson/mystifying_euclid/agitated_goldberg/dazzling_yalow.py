@@ -4,5 +4,5 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from peaceful_bohr.jovial_bell import cranky_raman as cranky_raman1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie1
 from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.mystifying_euclid.agitated_goldberg import blissful_goldberg as blissful_goldberg1

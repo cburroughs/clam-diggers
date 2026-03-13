@@ -7,4 +7,4 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.boring_dijkstra.awesome_morse import zealous_noyce as zealous_noyce1
 from stupefied_gates import nervous_fermat as nervous_fermat1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

@@ -9,5 +9,5 @@ from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr import zen_curran as zen_curran1
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
 from peaceful_bohr.zen_pike import dazzling_nightingale as dazzling_nightingale1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1

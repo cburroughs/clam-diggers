@@ -8,5 +8,5 @@ from peaceful_bohr.cranky_mahavira import sleepy_euclid as sleepy_euclid1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import stupefied_hawking as stupefied_hawking1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import awesome_wright as awesome_wright1

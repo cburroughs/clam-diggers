@@ -7,16 +7,16 @@ from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilto
 from elegant_tesla.boring_boyd import suspicious_meitner as suspicious_meitner1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import blissful_bose as blissful_bose1
 from peaceful_bohr import awesome_bose as awesome_bose1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
 from peaceful_bohr.zen_pike import laughing_feynman as laughing_feynman1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
-import amazing_shirley as amazing_shirley1
+from acoustic_whale import amazing_shirley as amazing_shirley1
 from elegant_tesla.zen_pike import adoring_knuth as adoring_knuth1
 from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
 from elegant_tesla.boring_boyd import zen_curie as zen_curie2
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import blissful_bose as blissful_bose2
 from peaceful_bohr.friendly_lalande import pensive_keller as pensive_keller1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

@@ -4,6 +4,6 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.boring_dijkstra import zen_pike as zen_pike2
 from peaceful_bohr.jovial_bell import cranky_raman as cranky_raman1
 from peaceful_bohr.brave_dubinsky import youthful_bartik as youthful_bartik1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import jovial_benz as jovial_benz1
 from peaceful_bohr.admiring_carson.quirky_swirles import focused_mirzakhani as focused_mirzakhani2

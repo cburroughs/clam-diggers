@@ -18,5 +18,5 @@ from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.zen_pike import focused_torvalds as focused_torvalds1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import dazzling_dijkstra as dazzling_dijkstra2
 from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

@@ -13,7 +13,7 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import optimist
 from elegant_tesla.reverent_nightingale import dreamy_northcutt as dreamy_northcutt1
 from peaceful_bohr import awesome_bose as awesome_bose1
 from elegant_tesla.reverent_nightingale import jovial_torvalds as jovial_torvalds1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr.zen_pike import hardcore_jepsen as hardcore_jepsen1
 from elegant_tesla.reverent_nightingale import jovial_northcutt as jovial_northcutt1
@@ -26,7 +26,7 @@ from peaceful_bohr.friendly_lalande import nervous_borg as nervous_borg1
 from elegant_tesla.reverent_nightingale import amazing_nightingale as amazing_nightingale1
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
 from elegant_tesla.reverent_nightingale import reverent_aryabhata as reverent_aryabhata1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.reverent_nightingale import sleepy_golick as sleepy_golick1
 from elegant_tesla.reverent_nightingale import jolly_kalam as jolly_kalam1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1

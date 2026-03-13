@@ -11,5 +11,5 @@ from peaceful_bohr.admiring_carson import adoring_neumann as adoring_neumann1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from stupefied_gates import tender_noether as tender_noether1
 from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import dazzling_shaw as dazzling_shaw2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.zen_pike.optimistic_hawking import mystifying_blackwell as mystifying_blackwell1

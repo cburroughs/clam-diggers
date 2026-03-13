@@ -12,7 +12,7 @@ from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
 from peaceful_bohr import angry_hugle as angry_hugle1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import heuristic_hopper as heuristic_hopper1
 from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.boring_dijkstra import objective_lamarr as objective_lamarr1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie2
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import lucid_shockley as lucid_shockley1
@@ -29,11 +29,11 @@ from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import awe
 from peaceful_bohr.zen_pike import awesome_mccarthy as awesome_mccarthy1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import loving_varahamihira as loving_varahamihira2
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira3
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira.wonderful_ramanujan import happy_hypatia as happy_hypatia1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr.zen_pike import loving_pare as loving_pare3
 from peaceful_bohr import zen_curie as zen_curie4
 from peaceful_bohr.zen_pike import loving_varahamihira as loving_varahamihira4

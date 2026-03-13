@@ -12,13 +12,13 @@ from elegant_tesla.boring_boyd import silly_hoover as silly_hoover1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.boring_boyd import zen_pike as zen_pike2
 from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
-import gracious_kare as gracious_kare1
+from acoustic_whale import gracious_kare as gracious_kare1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import trusting_brattain as trusting_brattain1
 from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import elated_leavitt as elated_leavitt1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
 from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1
 from elegant_tesla.vibrant_northcutt.practical_colden import epic_khorana as epic_khorana1
-import jovial_swartz as jovial_swartz1
+from acoustic_whale import jovial_swartz as jovial_swartz1
 from elegant_tesla.boring_dijkstra.awesome_morse import elated_poincare as elated_poincare1
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1

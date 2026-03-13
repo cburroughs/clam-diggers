@@ -1,5 +1,5 @@
 from loving_visvesvaraya.confident_hoover.kind_morse.lucid_hypatia import lucid_hypatia as lucid_hypatia1
-import hungry_neumann as hungry_neumann1
+from acoustic_whale import hungry_neumann as hungry_neumann1
 from loving_visvesvaraya.confident_hoover.determined_ptolemy import friendly_davinci as friendly_davinci1
 from loving_visvesvaraya.confident_hoover.kind_morse.naughty_wright import naughty_wright as naughty_wright1
 from loving_visvesvaraya.confident_hoover.kind_morse.eloquent_chandrasekhar import eloquent_chandrasekhar as eloquent_chandrasekhar1

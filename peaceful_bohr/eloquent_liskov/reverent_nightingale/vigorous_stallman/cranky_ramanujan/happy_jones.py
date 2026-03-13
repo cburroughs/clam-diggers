@@ -11,4 +11,4 @@ from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as elo
 from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
 from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
 from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

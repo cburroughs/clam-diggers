@@ -6,8 +6,8 @@ from elegant_tesla.boring_dijkstra import jovial_elion as jovial_elion2
 from peaceful_bohr.brave_dubinsky.practical_colden import eager_almeida as eager_almeida1
 from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bose1
 from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
-import reverent_fermi as reverent_fermi1
+from acoustic_whale import reverent_fermi as reverent_fermi1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
 from peaceful_bohr.zen_pike import happy_wescoff as happy_wescoff1
 from peaceful_bohr.eloquent_liskov.vibrant_northcutt.goofy_kepler import focused_mirzakhani as focused_mirzakhani3
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1

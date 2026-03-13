@@ -8,5 +8,5 @@ from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import focused_mirzakhani as focused_mirzakhani3
 from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
 from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani4
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import elated_darwin as elated_darwin1

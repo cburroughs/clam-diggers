@@ -1,5 +1,5 @@
 from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
-import fervent_neumann as fervent_neumann1
+from acoustic_whale import fervent_neumann as fervent_neumann1
 from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
 from elegant_tesla.heuristic_babbage.quirky_goldstine import priceless_austin as priceless_austin1
 from elegant_tesla.heuristic_babbage.xenodochial_clarke.suspicious_shaw import youthful_lamport as youthful_lamport1

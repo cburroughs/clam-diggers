@@ -10,11 +10,11 @@ from peaceful_bohr.zen_pike import flamboyant_mcclintock as flamboyant_mcclintoc
 from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
 from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
 from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
-import heuristic_roentgen as heuristic_roentgen1
+from acoustic_whale import heuristic_roentgen as heuristic_roentgen1
 from peaceful_bohr.upbeat_wing import focused_mirzakhani as focused_mirzakhani2
 from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
 from peaceful_bohr import zen_curie as zen_curie2
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from stupefied_gates import quirky_sammet as quirky_sammet1
 from peaceful_bohr.zen_pike import confident_panini as confident_panini1
 from peaceful_bohr.friendly_lalande import kind_archimedes as kind_archimedes1

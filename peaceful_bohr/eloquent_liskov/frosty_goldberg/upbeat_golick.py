@@ -6,6 +6,6 @@ from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakha
 from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
 from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
 from stupefied_gates import nervous_fermat as nervous_fermat1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
 from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
-import keen_kirch as keen_kirch1
+from acoustic_whale import keen_kirch as keen_kirch1

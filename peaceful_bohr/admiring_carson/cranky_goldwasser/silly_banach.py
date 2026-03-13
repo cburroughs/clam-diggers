@@ -4,4 +4,4 @@ from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakha
 from peaceful_bohr.zen_pike import hardcore_jepsen as hardcore_jepsen1
 from elegant_tesla.cranky_goldwasser import zen_nightingale as zen_nightingale1
 from peaceful_bohr.brave_dubinsky import relaxed_jepsen as relaxed_jepsen1
-import vigorous_thompson as vigorous_thompson1
+from acoustic_whale import vigorous_thompson as vigorous_thompson1
